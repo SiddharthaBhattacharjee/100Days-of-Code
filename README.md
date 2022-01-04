@@ -5,5 +5,7 @@ I will be maintaining a [Log](https://github.com/SiddharthaBhattacharjee/100Days
 
 My main motivation behind taking up the #100DaysOfCodingChallenge is to increase my consistency. As it is famously said "Consistency is the key to success." I goal is to learn to work hard consistantly from this challenge.
 I will give my beft efforts to complete the challenge without any breaks. I would also try to code more than the minimum time of one hour for most of the days.
-In case I absolutely have to take a break longer than a day in regards of Sem Exam , Sickness of any other valid reason , I will add 2 extra days to the challenge for each day I've missed.
-Fell free to give any sugestions you have for me. All suggestions are welcome.
+In case I absolutely have to take a break longer than a day in regards of Sem Exam , Sickness of any other valid reason , I will add 2 extra days to the challenge for each day I've missed.<br>
+Fell free to give any sugestions you have for me. All suggestions are welcome.<br>
+
+"If you are persistent, you will get it. If you are consistent, you will keep it." -Richard G Scott.
