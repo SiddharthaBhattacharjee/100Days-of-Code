@@ -22,3 +22,12 @@ Then I resumed my work on the MySocial app as I have now gained the necesarry to
 Today I have worked for more than <b>6 Hours</b> out of which around 2 hours went towards learning the new topics and the remaining 4hrs went towards working on the app.🕐
 // I've really been hooked on coding today. 😁<br>
 Link to todays work : [Day3 Work](https://github.com/SiddharthaBhattacharjee/MySocials-Android-App)
+
+## <u>Day 4 ; Jan 4th 2022 **Tuesday** : </u>
+Today , I took a little break from Android Development and Practiced some C programms. Because it has been a while since I last coded in C, I reviewed the concepts and practiced a bit so that I wouldn't forget them. Todays work Include some practice questions on the topics array, string, and structures that I solved as well as two basic games i made in C.✍️<br>
+In Array Practice set, I solved 4 practice questions which are: program to sort array, program to search for an element in array(using binary search), program to reverse a given array, and program to count number of occurance of each element of an array.<br>
+In String Practice set, I solved 3 practice questions which are: a function to check if a character is in string or not, a function to count the occurance of a character in string, and a function to perform slicing of string.<br>
+For Structures practice , I solved 1 question which was to implement vectors (including all vector operations) using structure.📖<br>
+Other than that , I created 2 basic games in C, which are: <b>'Guess The Number'</b> and <b>'Rock Paper Scissor'</b>💻
+Today I have worked for <b>2 hrs</b> out of which 1 hr went toward coding the games and the remaining 1hr toward doing the practice problems. 🕐 // I took it easy today after yesterday's intense work. 😄<br>
+Link to Todays Work : [Day4 Work](https://github.com/SiddharthaBhattacharjee/C_Practice)
