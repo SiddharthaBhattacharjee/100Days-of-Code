@@ -31,3 +31,8 @@ For Structures practice , I solved 1 question which was to implement vectors (in
 Other than that , I created 2 basic games in C, which are: <b>'Guess The Number'</b> and <b>'Rock Paper Scissor'</b>💻
 Today I have worked for <b>2 hrs</b> out of which 1 hr went toward coding the games and the remaining 1hr toward doing the practice problems. 🕐 // I took it easy today after yesterday's intense work. 😄<br>
 Link to Todays Work : [Day4 Work](https://github.com/SiddharthaBhattacharjee/C_Practice)
+
+## <u>Day 5 ; Jan 5th 2022 **Wednesday** : </u>
+Today, I am back to learning android development and started learning about List views which included Adapters,creating list view with package adapters and creating custom adapters.✍️<br>
+Then using what I learned today, I started working on a Contacts app which stores phone numbers, names and email of people and makes user able to make email and call directly from the app, The app is not ready to use yet and still have some issues to fix, but I made good progress today💻<br>
+Today I have worked for <b>6 hours</b> out of which 2 hrs went towards learning the concepts and 4 hrs went towards working on the app.🕐 //I will be doing more bug fixing tonight after 12, but the day is about to end , so I had to push my unfinished progress to github for the sake of challenge.😅<br>
