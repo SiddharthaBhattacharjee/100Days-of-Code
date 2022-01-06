@@ -28,7 +28,7 @@ Today , I took a little break from Android Development and Practiced some C prog
 In Array Practice set, I solved 4 practice questions which are: program to sort array, program to search for an element in array(using binary search), program to reverse a given array, and program to count number of occurance of each element of an array.<br>
 In String Practice set, I solved 3 practice questions which are: a function to check if a character is in string or not, a function to count the occurance of a character in string, and a function to perform slicing of string.<br>
 For Structures practice , I solved 1 question which was to implement vectors (including all vector operations) using structure.📖<br>
-Other than that , I created 2 basic games in C, which are: <b>'Guess The Number'</b> and <b>'Rock Paper Scissor'</b>💻
+Other than that , I created 2 basic games in C, which are: <b>'Guess The Number'</b> and <b>'Rock Paper Scissor'</b>💻<br>
 Today I have worked for <b>2 hrs</b> out of which 1 hr went toward coding the games and the remaining 1hr toward doing the practice problems. 🕐 // I took it easy today after yesterday's intense work. 😄<br>
 Link to Todays Work : [Day4 Work](https://github.com/SiddharthaBhattacharjee/C_Practice)
 
@@ -37,3 +37,8 @@ Today, I am back to learning android development and started learning about List
 Then using what I learned today, I started working on a Contacts app which stores phone numbers, names and email of people and makes user able to make email and call directly from the app, The app is not ready to use yet and still have some issues to fix, but I made good progress today💻<br>
 Today I have worked for <b>6 hours</b> out of which 2 hrs went towards learning the concepts and 4 hrs went towards working on the app.🕐 //I will be doing more bug fixing tonight after 12, but the day is about to end , so I had to push my unfinished progress to github for the sake of challenge.😅<br>
 Link to Todays Work : [Day5 Work](https://github.com/SiddharthaBhattacharjee/myContacts)
+
+## <u>Day 6 ; Jan 6th 2022 **Thursday** : </u>
+Today, I continued my work on the app which I was working on yesterday which is myContacts app, first I started by fixing all the bugs and issues that were there in the previous commit. Then I started making some progress completing more features which included the dp, button to make call, button to make email, I also reworked on the listview's adapter layout to Improve it and fix all the inconsistencies.💻<br>
+Today I worked for <b>3 hours</b> all of which went towards working on the app.🕐 //Today I didn't spend any time learning new topics because I wanted to complete the app upto a certain point(upto where I can complete with my current knowledge) before taking up new topics.✍️<br>
+Link to Todays Work : [Day6 Work](https://github.com/SiddharthaBhattacharjee/myContacts)<br>
