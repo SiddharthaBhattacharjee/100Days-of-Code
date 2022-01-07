@@ -41,7 +41,7 @@ Link to Today's Work : [Day5 Work](https://github.com/SiddharthaBhattacharjee/my
 ## <u>Day 6 ; Jan 6th 2022 **Thursday** : </u>
 Today, I continued my work on the app which I was working on yesterday which is myContacts app, first I started by fixing all the bugs and issues that were there in the previous commit. Then I started making some progress completing more features which included the dp, button to make call, button to make email, I also reworked on the listview's adapter layout to Improve it and fix all the inconsistencies.💻<br>
 Today I worked for <b>3 hours</b> all of which went towards working on the app.🕐 //Today I didn't spend any time learning new topics because I wanted to complete the app upto a certain point(upto where I can complete with my current knowledge) before taking up new topics.✍️<br>
-Link to Today's Work : [Day6 Work](https://github.com/SiddharthaBhattacharjee/myContacts)<br>
+Link to Today's Work : [Day6 Work](https://github.com/SiddharthaBhattacharjee/myContacts/commit/b80a3e5e689c147e25a4f7ee2e7e00c278cd77ad)<br>
 
 ## <u>Day 7 ; Jan 7th 2022 **Friday** : </u>
 Today, I started by learning about how to add click listners to inbuilt adapters using onItemClickListners and creating click listners custom adapters.✍️<br>
