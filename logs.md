@@ -43,7 +43,7 @@ Today, I continued my work on the app which I was working on yesterday which is 
 Today I worked for <b>3 hours</b> all of which went towards working on the app.🕐 //Today I didn't spend any time learning new topics because I wanted to complete the app upto a certain point(upto where I can complete with my current knowledge) before taking up new topics.✍️<br>
 Link to Today's Work : [Day6 Work](https://github.com/SiddharthaBhattacharjee/myContacts)<br>
 
-## <u>Day 76 ; Jan 7th 2022 **Friday** : </u>
+## <u>Day 7 ; Jan 7th 2022 **Friday** : </u>
 Today, I started by learning about how to add click listners to inbuilt adapters using onItemClickListners and creating click listners custom adapters.✍️<br>
 Then I continued working on MyCOntacts app , I added the view contact page , created the layout for the view contact activity and finished the read and delete fungtionality of it. Also added Call and Email functionality to the view contact layout.💻<br>
 Today I worked for <b>3 hours</b> out of which 40 mins went towards learning and rest towards working on the app.🕐<br>
