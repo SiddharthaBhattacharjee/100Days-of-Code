@@ -48,3 +48,9 @@ Today, I started by learning about how to add click listners to inbuilt adapters
 Then I continued working on MyCOntacts app , I added the view contact page , created the layout for the view contact activity and finished the read and delete fungtionality of it. Also added Call and Email functionality to the view contact layout.💻<br>
 Today I worked for <b>3 hours</b> out of which 40 mins went towards learning and rest towards working on the app.🕐<br>
 Link to Today's Work : [Day7 Work](https://github.com/SiddharthaBhattacharjee/myContacts/commit/489e216956e3654db8bb588bfe792e1d2834fdb0)
+
+## <u>Day 8 ; Jan 8th 2022 **Saturday** : </u>
+Today, I learned about how to create pop up dialogues using AlertDialogue in Android , how to take input from Alertdialogues and how to set buttons on alertdialogues.✍️<br>
+Then I continued working on MyContacts app using what I learned today to add the edit name , edit phone number and edit email id features on view contact page. I also fixed the issue of mainactivity not refreshing after making updates or deleting contacts from contactview page. I also added the upload Profile pic feature which as of today is still a work in progress. The upload part is completed but the display part is facing some issues yet to be fixed.💻<br>
+Today I worked for <b>2 hrs 30 mins</b> out of which 30 mins went towards learning the new topics and 2 hrs towards working on the app.🕐 // Taking it a bit easy on Saturday to get some rest from a week full of college work.😮‍💨<br>
+Link to Today's Work : [Day8 Work](https://github.com/SiddharthaBhattacharjee/myContacts/commit/bfa548512aad9b57f033fbc73bf3f4b33efbcefe)
