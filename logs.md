@@ -97,3 +97,11 @@ Today, I created a mockup app for the MLH LHD Day7 Challenge, I decided not to p
 Other than That I spent most of my time today working on the birthday app, as tomorrow is the last day to work on it and we will be presenting it to the Birthday boy tomorrow at midnigt 12o'clock. So, I am trying to wrap things up as fast as I can on this app. Today I fixed some issues found by my friends while testing the app, other than that I created 2 more levels, one of which included implementing the Hand Wrestling game, which was farely complicated and took some time to get figured out, I created a flowchart to figure out the flow of processes before jumping into the code for this one. This app will be finished by tomorrow and I will continue to learn new topics.💻<br>
 Today I worked for <b>4 hours</b> out of which 1 hour went towards working on the app mockup and remaining 3 hours went towards working on the birthday app.🕐<br>
 Link to Today's Work : [Day15 Work](https://github.com/SiddharthaBhattacharjee/HBD_Shivankar/commit/1eb283e54d82315e6c638ba5bd7cae07fd51ca0e)
+
+## <u>Day 16 ; Jan 16th 2022 **Sunday** : </u>
+Today, I spent all my time working on my personal project i.e. The birthday app for my friend's birthday, As today is the last day of working on the app, the deadline i.e. Birthday is tomorrow , we will be surprising him at 12AM.😄<br>
+Today's Work Included Implementing the last level as well as the secret level and patching all the bugs found while testing.💻<br>
+I also learned about video view in android and how to implement gifs into an android app today while working on the app.✍️<br>
+This app has been one of the most fun projects of my life, I enjoyed working on this app a ton, and got to learn a lot new things while working on the app. I also experienced working on an app with a deadline for the first time and It pushed me every day. The Quotr "Work Expands" is very true and I confirmed it from my experience of working on this app.😄 From Tomorrow I will be back to learning new concepts of android studio and will make more such apps much better than this one in the future.✍️<br>
+Today I worked for <b>5 hrs</b> all of which went toward working on the Birthday app.🕐<br>
+Link to Today's Work : [Day16 Work](https://github.com/SiddharthaBhattacharjee/HBD_Shivankar/commit/37e2ddc0e9c7174f395cf0ce2002a1c437019085)
