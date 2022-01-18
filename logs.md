@@ -107,8 +107,13 @@ Today I worked for <b>5 hrs</b> all of which went toward working on the Birthday
 Link to Today's Work : [Day16 Work](https://github.com/SiddharthaBhattacharjee/HBD_Shivankar/commit/37e2ddc0e9c7174f395cf0ce2002a1c437019085)
 
 ## <u>Day 17 ; Jan 17th 2022 **Monday** : </u>
-Today, I learned about Recycler view in Java, difference between recycler view and list view, In what ways are recycler views is better than list views, and how to implement recycler views using custom adapter.✍️<br>
+Today, I learned about the Recycler view in Java, the difference between the recycler view and list view, In which ways are recycler views are better than list views, and how to implement recycler views using custom adapter.✍️<br>
 Then I coded an app just to practice what I learned today, It is a very basic app that displays the content of an array using a recycler view. I will try to change my previous project myContacts app from listview to recycle view in the near future for some more practice of the concept and improved performance of the app.💻<br>
 Today I worked for <b>1 hr 40 min</b> out of which 50mins went towards learning the new topics and the remaining 50 mins towards working on the app.🕐<br>
-// I know today I have worked much less hours as compared to other days, that is because I have exams from 19th , that is this wednesday, so I am busy studying for most of the time.🙃<br>
+// I know today I have worked much fewer hours as compared to other days, that is because I have exams from 19th, that is this Wednesday, so I am busy studying for most of the time.🙃<br>
 Link to Today's Work : [Day17 Work](https://github.com/SiddharthaBhattacharjee/Recycler_View_Practice/tree/master)
+
+## <u>Day 18 ; Jan 18th 2022 **Tuesday** : </u>
+Today, I solved some python practice question to revice the concepts of python. As My Exams are starting from  tomorrow , I couldn't put much of my time towards coding , hence, instead of starting new topics , I will be practicing the older topics for the next 5 days. I won't be able to put much time on coding for the coming 5 days but I will make sure to cover up by doing extra time once my exams are over.🙃<br>
+Today I worked for <b>1 hour</b>, all of which went towards solving the practice problems.🕐<br>
+Link to Today's Work : [Day18 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/03d4c3bc40345b6f7da6f411e35c832e6acb8b32)
