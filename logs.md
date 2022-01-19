@@ -117,3 +117,9 @@ Link to Today's Work : [Day17 Work](https://github.com/SiddharthaBhattacharjee/R
 Today, I solved some python practice question to revice the concepts of python. As My Exams are starting from  tomorrow , I couldn't put much of my time towards coding , hence, instead of starting new topics , I will be practicing the older topics for the next 5 days. I won't be able to put much time on coding for the coming 5 days but I will make sure to cover up by doing extra time once my exams are over.🙃<br>
 Today I worked for <b>1 hour</b>, all of which went towards solving the practice problems.🕐<br>
 Link to Today's Work : [Day18 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/03d4c3bc40345b6f7da6f411e35c832e6acb8b32)
+
+## <u>Day 19 ; Jan 19th 2022 **Wednesday** : </u>
+Today, I solved more python practice questions to revice the concepts of binary files, OOPs , Stacks and lists. As stated earlier , my exams are going on so I am not coding for too long for a few days. The reason I am practicing python over other languages is that I am doing my android development projects in Java , and I recently practiced C for a day solving many questions, which leaves python not practiced since many days. I will practice more of OOPs in python tomorrow to fresh up the concepts.✍️<br>
+Today I worked for <b>1 hour</b> all of which was spent practicing coding problems.🕐<br>
+Link to Today's Work : [Day19 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/44b4d79e9df8a44788a07da0493f728bce27946e)
+
