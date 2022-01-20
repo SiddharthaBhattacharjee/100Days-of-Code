@@ -123,3 +123,8 @@ Today, I solved more python practice questions to revice the concepts of binary 
 Today I worked for <b>1 hour</b> all of which was spent practicing coding problems.🕐<br>
 Link to Today's Work : [Day19 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/44b4d79e9df8a44788a07da0493f728bce27946e)
 
+## <u>Day 20 ; Jan 20th 2022 **Thursday** : </u>
+Today, I solved more python practice questions on topics like csv and dictionaries, revised all the concepts of OOPs in python, and solved some questions from stackOverflow.💻<br>
+The practicing old topics is still going on and will go on for one more day, that is sunday, as my next exam after tomorrow is on monday. From Tomorrow I plan to start learning android development again to keep the flow going and I will do another practicing old topic day on sunday.✍️<br>
+Today I worked for <b>2 hours</b> out of which , around 1 hour went towards practicing oops and remaining time went towards solving the stack overflow problems.🕐<br>
+Link to Today's Work : [Day20 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/f9489d1873a3a66a79479c1f1186484932c9f30e)
