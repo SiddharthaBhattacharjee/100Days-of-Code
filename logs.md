@@ -130,8 +130,12 @@ Today I worked for <b>2 hours</b> out of which , around 1 hour went towards prac
 Link to Today's Work : [Day20 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/f9489d1873a3a66a79479c1f1186484932c9f30e)
 
 
-## <u>Day 21 ; Jan 21th 2022 **Friday** : </u>
+## <u>Day 21 ; Jan 21st 2022 **Friday** : </u>
 Today I completed my python practice for now by working on a tkinter based calculator application.💻<br>
 I planned on starting a new topic today, but at the end decided to complete the practice properly. I also had to attend 2 club meetings today. I will start newer android topics from tomorrow. Other than that , I also solved some StackOverflow questions.✍️<br>
 Today I worked for <b>2 hours</b> all of which went towards working on the application.🕐<br>
 Link to Today's Work : [Day21 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/1c1d90180ec88c8266968e807bb78db883660bcf)
+
+## <u>Day 22 ; Jan 22nd 2022 **Saturday** : </u>
+
+-- COMING SOON --
