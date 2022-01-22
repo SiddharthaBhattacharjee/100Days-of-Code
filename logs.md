@@ -137,5 +137,8 @@ Today I worked for <b>2 hours</b> all of which went towards working on the appli
 Link to Today's Work : [Day21 Work](https://github.com/SiddharthaBhattacharjee/Python-Practice/commit/1c1d90180ec88c8266968e807bb78db883660bcf)
 
 ## <u>Day 22 ; Jan 22nd 2022 **Saturday** : </u>
-
+Today, I learned how to apply recycler view in android apps using custom adapters and learned how to create custom adapters for recycler view.✍️<br>
+Then, I started working on an app based on what I learned Today. I started working on a PokeDex app, which uses recycler view to list the original 151 pokemon. While working on the app, I also learned how to change the imageview image using drawable resource from java code to allocate the image of each pokemon based on their dex number dynamically.💻<br>
+Today I worked for <b>5 hours</b> Out of which 1 hour went towards learning the new topics, 3 hours went towards coding and 1 hour went towards gathering app resources.🕐<br>
+// I had to download 151 images , make arrays of all 151 pokemons names and typing , which was tedious and took 1 hour 😮‍💨 <br>
 Link to Today's Work : [Day22 Work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App)
