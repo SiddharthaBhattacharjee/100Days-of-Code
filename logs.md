@@ -138,4 +138,4 @@ Link to Today's Work : [Day21 Work](https://github.com/SiddharthaBhattacharjee/P
 
 ## <u>Day 22 ; Jan 22nd 2022 **Saturday** : </u>
 
--- COMING SOON --
+Link to Today's Work : [Day22 Work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App)
