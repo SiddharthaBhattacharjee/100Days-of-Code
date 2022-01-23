@@ -142,3 +142,11 @@ Then, I started working on an app based on what I learned Today. I started worki
 Today I worked for <b>5 hours</b> Out of which 1 hour went towards learning the new topics, 3 hours went towards coding and 1 hour went towards gathering app resources.🕐<br>
 // I had to download 151 images , make arrays of all 151 pokemons names and typing , which was tedious and took around 1 hour 😮‍💨 <br>
 Link to Today's Work : [Day22 Work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App)
+
+
+## <u>Day 23 ; Jan 23rd 2022 **Sunday** : </u>
+Today I learned about how to add onclick listners on recycler view items in custom adapter using custom interface implementation.✍️<br>
+Then I applied what I learned today to finish the app that I started today which was the PokeDex app, which now responds to clicks on any pokemon in the recycler view and opens their pokedex entry in a new web view acticity.💻<br>
+Today, I worked for <b>1 hour 20 mins</b> out of which around 40 mins went towards learning the concept and 40 minutes towards applying it to the app.🕐<br>
+// I have my last exam tomorrow after 2 days of weekend break, hence I spent less time coding today so that I can make time for studying for tomorrow.📖<br>
+Link to Today's Work : [Day23 Work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App/commit/e872948b5519ac91f7a894f2251e3cab1c53d6a7)
