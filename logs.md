@@ -150,3 +150,10 @@ Then I applied what I learned today to finish the app that I started today which
 Today, I worked for <b>1 hour 20 mins</b> out of which around 40 mins went towards learning the concept and 40 minutes towards applying it to the app.🕐<br>
 // I have my last exam tomorrow after 2 days of weekend break, hence I spent less time coding today so that I can make time for studying for tomorrow.📖<br>
 Link to Today's Work : [Day23 Work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App/commit/e872948b5519ac91f7a894f2251e3cab1c53d6a7)
+
+## <u>Day 24 ; Jan 24th 2022 **Monday** : </u>
+Today, I learnet about how to play media in android studio, and how to use MediaPlayer class.✍️<br>
+Using what I learned today, I worked on an app which playes a video and may or maynot be a rickroll 👀 Other than That, I started Working on a fitness app for the upcoming hackathron (finished the home page), and lastly I made some minor fixes and improvements in the PokeDex App.💻<br>
+Today I worked for <b>5 hours</b> out of which around 30 mins went towards learning the new topic , 1 hr 30 mins toward working on the rickroll app, 2 hrs 30 mins working on the fitness app and around 30 mins on Pokedex app.🕐<br>
+//Looks Like I covered many different topics at once today, after exams finally being over (for now) I tried to cover up as much as I could in a day.😄<br>
+Link to Todays Work : [Day24 definately not rickroll app work](https://github.com/SiddharthaBhattacharjee/Crillork_Code/commit/f8a05233d77236f886ab63822b931c1cc60d9cfc)  ,  [Day24 fitness app work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/c7875c529a78e178f50ad0dbf1b08be774475ad0)  ,  [Day24 PokeDex app work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App/commit/454f3bc4c616ad9e2aae4de1f63d5a0e89b8e9d3)
