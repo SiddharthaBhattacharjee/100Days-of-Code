@@ -156,12 +156,18 @@ Today, I learned about how to play media in android studio, and how to use Media
 Using what I learned today, I worked on an app that playes a video and may or maynot be a rickroll 👀 Other than That, I started Working on a fitness app for the upcoming hackathron (finished the home page), and lastly, I made some minor fixes and improvements in the PokeDex App.💻<br>
 Today I worked for <b>5 hours</b> out of which around 30 mins went towards learning the new topic , 1 hr 30 mins toward working on the rickroll app, 2 hrs 30 mins working on the fitness app and around 30 mins on Pokedex app.🕐<br>
 //Looks Like I covered many different topics at once today, after exams finally being over (for now) I tried to cover up as much as I could in a day.😄<br>
-Link to Todays Work : [Day24 definately not rickroll app work](https://github.com/SiddharthaBhattacharjee/Crillork_Code/commit/f8a05233d77236f886ab63822b931c1cc60d9cfc)  ,  [Day24 fitness app work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/c7875c529a78e178f50ad0dbf1b08be774475ad0)  ,  [Day24 PokeDex app work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App/commit/454f3bc4c616ad9e2aae4de1f63d5a0e89b8e9d3)
+Link to Today's Work : [Day24 definately not rickroll app work](https://github.com/SiddharthaBhattacharjee/Crillork_Code/commit/f8a05233d77236f886ab63822b931c1cc60d9cfc)  ,  [Day24 fitness app work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/c7875c529a78e178f50ad0dbf1b08be774475ad0)  ,  [Day24 PokeDex app work](https://github.com/SiddharthaBhattacharjee/PokeDex-Android-App/commit/454f3bc4c616ad9e2aae4de1f63d5a0e89b8e9d3)
 
 ## <u>Day 25 ; Jan 25th 2022 **Tuesday** : </u>
 Today, I learned how to add menu to android apps in android studio.✍️<br>
 I have been working on our hackathron project (Android app), I Revamped the homepage from yesterday, Added two of the 8 pages, made a BMI and BMU calculator to the app, changed the theme colour, and added menu to the app.💻<br>
 Today I have worked for around <b>5 hours</b> all of which went towards coding for hackathron.🕐<br>
 // I was workd much more hours today, but most of it was discussing ideas and meetings so I didn't count that as coding hours.🙃<br>
-Link to Todays Work : [Day25 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/0b51a2f14b95e594b1cdd0b0b898bf060e43f3d5)
+Link to Today's Work : [Day25 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/0b51a2f14b95e594b1cdd0b0b898bf060e43f3d5)
 
+
+## <u>Day 26 ; Jan 26th 2022 **Wednesday** : </u>
+Today, I learned how to create a step tracker in android studio using custom interfaces for the hackathron project.✍️<br>
+Other than that, I have been working on the hackathron project, added many new features and pages, work still going on with full pace. added the contact us page with intents to make it easy for user to directly contact us, added a step counter and fixed some issues from last commit.💻<br>
+Today I worked for <b>5 hours 30 mins</b> out of which 40mins went towards learning and the remaining towards working on the hackathron app.🕐<br>
+Link to Today's Work : [Day26 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/d55b2025e091ca06bb504a22b20f4cab9868ad21)
