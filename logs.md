@@ -171,3 +171,10 @@ Today, I learned how to create a step tracker in android studio using custom int
 Other than that, I have been working on the hackathron project, added many new features and pages, work still going on with full pace. added the contact us page with intents to make it easy for user to directly contact us, added a step counter and fixed some issues from last commit.💻<br>
 Today I worked for <b>5 hours 30 mins</b> out of which 40mins went towards learning and the remaining towards working on the hackathron app.🕐<br>
 Link to Today's Work : [Day26 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/d55b2025e091ca06bb504a22b20f4cab9868ad21)
+
+## <u>Day 27 ; Jan 27th 2022 **Thursday** : </u>
+First of all, I was 2 minutes late to upload my code and hence , according to data , I lost my streak of daily uploads😓 , But I did code for the entire day. The reason I forgot to upload on time is because I was busy coding for the hackathron project and hence was paying to attention to time😓<br>
+Today, I learned about how to use time ticks in android activity for the hackathron project.✍️<br>
+Other then that, I have been mostly working on my hackathron project , added many more pages and added a meditation timer that progressively increases the timer as you complete previous timers.💻<br>
+Today I worked for <b>6 hours 10 mins</b> out of which 40mins went towards learning and the remaining towards working on the hackathron app.🕐<br>
+Link to Today's Work : [Day27 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/3740fa960fe390d5e966acaaefa931d088dcfc1c)
