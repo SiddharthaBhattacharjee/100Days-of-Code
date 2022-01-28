@@ -178,3 +178,9 @@ Today, I learned about how to use time ticks in android activity for the hackath
 Other then that, I have been mostly working on my hackathron project , added many more pages and added a meditation timer that progressively increases the timer as you complete previous timers.💻<br>
 Today I worked for <b>6 hours 10 mins</b> out of which 40mins went towards learning and the remaining towards working on the hackathron app.🕐<br>
 Link to Today's Work : [Day27 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/3740fa960fe390d5e966acaaefa931d088dcfc1c)
+
+## <u>Day 28 ; Jan 28th 2022 **Friday** : </u>
+Today, I learned how to make a custom calender with clickable dates in android using custom interfaces.✍️<br>
+Then I worked on the hackathron app for the most of the day, added more pages including a calender that can store data for each day also fixed some issues from last commit too.💻<br>
+Today I worked for ,b>4 hrs and 20 mins</b> out of which around 1 hour went towards working on the app and remaining time towards working on the hackathron app.🕐<br>
+Link to Today's Work : [Day28 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/647656ecd490bf955cb3c99a668f10b6e411b376)
