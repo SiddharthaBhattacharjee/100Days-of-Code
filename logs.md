@@ -184,3 +184,10 @@ Today, I learned how to make a custom calender with clickable dates in android u
 Then I worked on the hackathron app for the most of the day, added more pages including a calender that can store data for each day also fixed some issues from last commit too.💻<br>
 Today I worked for <b>4 hrs and 20 mins</b> out of which around 1 hour went towards working on the app and remaining time towards working on the hackathron app.🕐<br>
 Link to Today's Work : [Day28 Work](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/647656ecd490bf955cb3c99a668f10b6e411b376)
+
+
+## <u>Day 29 ; Jan 29th 2022 **Saturday** : </u>
+Today, I spent most of my day working on the hackathron project, as the submission date is aproaching closer, we are almost finished with the app and now are adding the details and finishing touches.💻<br>
+Today I worked for <b>5 hours</b> all of which went towards working on the hackathron app.🕐<br>
+  Link to Today's Work : [Day29 Work 1](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/fe0952fc8668c6b1bfd9ebc0d24f2f9a903f77ce)  ,  [Day29 Work 2](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/e4911944aa5e94b01db3402e74ff64ddb61a082b)
+  
