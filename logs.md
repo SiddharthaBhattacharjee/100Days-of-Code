@@ -192,6 +192,6 @@ Today I worked for <b>5 hours</b> all of which went towards working on the hacka
   Link to Today's Work : [Day29 Work 1](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/fe0952fc8668c6b1bfd9ebc0d24f2f9a903f77ce)  ,  [Day29 Work 2](https://github.com/SiddharthaBhattacharjee/Health-And-Hygene-Android-App/commit/e4911944aa5e94b01db3402e74ff64ddb61a082b)
   
 ## <u>Jan 30th 2022 **Sunday** : </u>
-Took a break today due to high fever and bad health due to alergic reaction. Hopefully will recover and get going again from tomorrow.🙃<br>
+Took a break today due to high fever, constant sneezing and eye iritation and bad health due to alergic reaction. Hopefully will recover and get going again from tomorrow.🙃<br>
 
 
