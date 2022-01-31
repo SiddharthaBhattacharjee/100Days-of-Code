@@ -194,10 +194,10 @@ Today I worked for <b>5 hours</b> all of which went towards working on the hacka
 ## <u>Jan 30th 2022 **Sunday** : </u>
 Took a break today due to high fever, constant sneezing and eye iritation and bad health due to alergic reaction. Hopefully will recover and get going again from tomorrow.🙃<br>
 
-## <u>Jan 31st 2022 **Monday** : </u>
+## <u>Day 30 ; Jan 31st 2022 **Monday** : </u>
 Today, I learned about more methods in media player, also learned aabout the seakbar widget and how to use it with media player in android.✍️<br>
 Then, Based on what I learned today, I made a dummy music player app which as of now only playes 5 musics stored in it (can't access media from device for now) with all basic features of a music player such as seekbar, play/pause button, next button and previous button.💻<br>
-Today I worked for around <b>4 hours</b> out of which around 1 hour went towards learning the new concepts and remaining 4 hours towards working on the app.🕐<br>
+Today I worked for around <b>4 hours</b> out of which around 1 hour went towards learning the new concepts and remaining 3 hours towards working on the app.🕐<br>
 // Also , My university practicals for 1st sem have started from today, so I can't put in much time in coding for the next 2 days. I will make sure to coverup for that once the practicals are over by doing extra time, although the rules say 1 hours of coding, doing just 1 hour feels cheaty to me.🙃<br>
 Link to Today's Work : [Day30 Work](https://github.com/SiddharthaBhattacharjee/DummyMusic-Android-App)
 
