@@ -201,3 +201,9 @@ Today I worked for around <b>4 hours</b> out of which around 1 hour went towards
 // Also , My university practicals for 1st sem have started from today, so I can't put in much time in coding for the next 2 days. I will make sure to coverup for that once the practicals are over by doing extra time, although the rules say 1 hours of coding, doing just 1 hour feels cheaty to me.🙃<br>
 Link to Today's Work : [Day30 Work](https://github.com/SiddharthaBhattacharjee/DummyMusic-Android-App)
 
+## <u>Day 31 ; Feb 1st 2022 **Tuesday** : </u>
+Today, I learned about SurfaceView and its uses. I also learned how it is used with mediaplayer.✍️<br>
+Based on what I learned today, I made a basic dummy video player app which as of now only plays 4 videos stored in it (can't access media from device for now) with all basic features of a video player such as seekbar, play/pause button, next button, previous button and a video display. Although I have made apps in the past that play videos, this time I have implemented it from scratch using mediaplayer class and surface view instead of just using videoview.💻<br>
+Today I worked for around <b>2 hours and 30 mins</b> out of which around 1 hour went towards learning the new concepts and remaining 1.5 hours towards working on the app.🕐<br>
+// I was supposed to study english today for tomorrows exam, but here I am making dummy apps. 🙃 didn't take the less time today , hopefully I will be able to complete english on time.🙃<br>
+Link to Today's Work : [Day31 Work](https://github.com/SiddharthaBhattacharjee/Dummy-Video-Player-AndroidApp)
