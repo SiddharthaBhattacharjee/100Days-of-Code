@@ -207,3 +207,10 @@ Based on what I learned today, I made a basic dummy video player app which as of
 Today I worked for about <b>2 hours and 30 mins</b> out of which around 1 hour went towards learning the new concepts and remaining 1.5 hours towards working on the app.🕐<br>
 // I was supposed to study english today for tomorrows exam, but here I am making dummy apps. 🙃 didn't take the less time today, hopefully I will be able to complete english on time.🙃<br>
 Link to Today's Work : [Day31 Work](https://github.com/SiddharthaBhattacharjee/Dummy-Video-Player-AndroidApp)
+
+## <u>Day 32 ; Feb 2nd 2022 **Wednesday** : </u>
+Today, I learned about SQLite Database and its connectivity and usage with Android apps.✍️<br>
+To practice the concepts I learned , I made a test app to test out database connectivity, I used 3 classes, one is mainActivity, one that does the database connection and one that handels the data from the database. and tested the output in app logs with some sample data.💻<br>
+Today I worked for about <b>1 hour 30 mins</b> out of which about 50 mins went towards learning the concepts and the remaining towards making the app.🕐<br>
+// Today, I had to take it a bit shorter as tomorrow I have BEEE Practicals. Had to study a bit for that. 🙃<br>
+Link to Today's Work : [Day32 Work](https://github.com/SiddharthaBhattacharjee/SQLite-Database-Test-App)
