@@ -204,13 +204,19 @@ Link to Today's Work : [Day30 Work](https://github.com/SiddharthaBhattacharjee/D
 ## <u>Day 31 ; Feb 1st 2022 **Tuesday** : </u>
 Today, I learned about SurfaceView and its uses. I also learned how it is used with mediaplayer.✍️<br>
 Based on what I learned today, I made a basic dummy video player app which as of now only plays 4 videos stored in it (can't access media from device for now) with all basic features of a video player such as seekbar, play/pause button, next button, previous button and a video display. Although I have made apps in the past that play videos, this time I have implemented it from scratch using mediaplayer class and surface view instead of just using videoview.💻<br>
-Today I worked for about <b>2 hours and 30 mins</b> out of which around 1 hour went towards learning the new concepts and remaining 1.5 hours towards working on the app.🕐<br>
-// I was supposed to study english today for tomorrows exam, but here I am making dummy apps. 🙃 didn't take the less time today, hopefully I will be able to complete english on time.🙃<br>
+Today I worked for about <b>2 hours and 30 mins</b> out of which around 1 hour went towards learning the new concepts and the remaining 1.5 hours towards working on the app.🕐<br>
+// I was supposed to study english today for tomorrows exam, but here I am making dummy apps. 🙃 didn't take the less time today, hopefully, I will be able to complete English on time.🙃<br>
 Link to Today's Work : [Day31 Work](https://github.com/SiddharthaBhattacharjee/Dummy-Video-Player-AndroidApp)
 
 ## <u>Day 32 ; Feb 2nd 2022 **Wednesday** : </u>
 Today, I learned about SQLite Database and its connectivity and usage with Android apps.✍️<br>
-To practice the concepts I learned , I made a test app to test out database connectivity, I used 3 classes, one is mainActivity, one that does the database connection and one that handels the data from the database. and tested the output in app logs with some sample data.💻<br>
+To practice the concepts I learned, I made a test app to test out database connectivity, I used 3 classes, one is the main activity, one that does the database connection, and one that handles the data from the database. and tested the output in app logs with some sample data.💻<br>
 Today I worked for about <b>1 hour 30 mins</b> out of which about 50 mins went towards learning the concepts and the remaining towards making the app.🕐<br>
 // Today, I had to take it a bit shorter as tomorrow I have BEEE Practicals. Had to study a bit for that. 🙃<br>
 Link to Today's Work : [Day32 Work](https://github.com/SiddharthaBhattacharjee/SQLite-Database-Test-App)
+
+## <u>Day 33 ; Feb 3rd 2022 **Thursday** : </u>
+Today, I learned how to access device directory and take runtime permission to access said directories in Android.✍️<br>
+to practice what I learned today, I started working on a music player which this timw will play users stored songs from the device I completed the file accessing and displaying part today, and plan to finish the app by tomorrow.💻<br>
+Today I worked for about <b>3 hours</b> out of which around 1 hour 30 minutes went towards learning the topic and remaining went towards working on the app.🕐<br>
+Link to Today's Wrok : [Day33 Work](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App/commit/3c55048fe03af3133706aee59b06b60817c8cceb)
