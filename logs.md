@@ -195,7 +195,7 @@ Today I worked for <b>5 hours</b> all of which went towards working on the hacka
 Took a break today due to high fever, constant sneezing and eye iritation and bad health due to alergic reaction. Hopefully will recover and get going again from tomorrow.🙃<br>
 
 ## <u>Day 30 ; Jan 31st 2022 **Monday** : </u>
-Today, I learned about more methods in media player, also learned aabout the seakbar widget and how to use it with media player in android.✍️<br>
+Today, I learned about more methods in media player, also learned about the seakbar widget and how to use it with media player in android.✍️<br>
 Then, Based on what I learned today, I made a dummy music player app which as of now only playes 5 musics stored in it (can't access media from device for now) with all basic features of a music player such as seekbar, play/pause button, next button and previous button.💻<br>
 Today I worked for around <b>4 hours</b> out of which around 1 hour went towards learning the new concepts and remaining 3 hours towards working on the app.🕐<br>
 // Also , My university practicals for 1st sem have started from today, so I can't put in much time in coding for the next 2 days. I will make sure to coverup for that once the practicals are over by doing extra time, although the rules say 1 hours of coding, doing just 1 hour feels cheaty to me.🙃<br>
@@ -203,9 +203,9 @@ Link to Today's Work : [Day30 Work](https://github.com/SiddharthaBhattacharjee/D
 
 ## <u>Day 31 ; Feb 1st 2022 **Tuesday** : </u>
 Today, I learned about SurfaceView and its uses. I also learned how it is used with mediaplayer.✍️<br>
-Based on what I learned today, I made a basic dummy video player app which as of now only plays 4 videos stored in it (can't access media from device for now) with all basic features of a video player such as seekbar, play/pause button, next button, previous button and a video display. Although I have made apps in the past that play videos, this time I have implemented it from scratch using mediaplayer class and surface view instead of just using videoview.💻<br>
+Based on what I learned today, I made a basic dummy video player app which as of now only plays 4 videos stored in it (can't access media from device for now) with all basic features of a video player such as seekbar, play/pause button, next button, previous button, and a video display. Although I have made apps in the past that play videos, this time I have implemented it from scratch using mediaplayer class and surface view instead of just using videoview.💻<br>
 Today I worked for about <b>2 hours and 30 mins</b> out of which around 1 hour went towards learning the new concepts and the remaining 1.5 hours towards working on the app.🕐<br>
-// I was supposed to study english today for tomorrows exam, but here I am making dummy apps. 🙃 didn't take the less time today, hopefully, I will be able to complete English on time.🙃<br>
+// I was supposed to study English today for tomorrow's exam, but here I am making dummy apps. 🙃 didn't take the less time today, hopefully, I will be able to complete English on time.🙃<br>
 Link to Today's Work : [Day31 Work](https://github.com/SiddharthaBhattacharjee/Dummy-Video-Player-AndroidApp)
 
 ## <u>Day 32 ; Feb 2nd 2022 **Wednesday** : </u>
@@ -217,6 +217,13 @@ Link to Today's Work : [Day32 Work](https://github.com/SiddharthaBhattacharjee/S
 
 ## <u>Day 33 ; Feb 3rd 2022 **Thursday** : </u>
 Today, I learned how to access device directory and take runtime permission to access said directories in Android.✍️<br>
-to practice what I learned today, I started working on a music player which this timw will play users stored songs from the device I completed the file accessing and displaying part today, and plan to finish the app by tomorrow.💻<br>
+to practice what I learned today, I started working on a music player which this time will play users stored songs from the device I completed the file accessing and displaying part today, and plan to finish the app by tomorrow.💻<br>
 Today I worked for about <b>3 hours</b> out of which around 1 hour 30 minutes went towards learning the topic and remaining went towards working on the app.🕐<br>
 Link to Today's Wrok : [Day33 Work](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App/commit/3c55048fe03af3133706aee59b06b60817c8cceb)
+
+## <u>Day 34 ; Feb 4th 2022 **Friday** : </u>
+Today, I learned to work with handlers in android and how to play media fromm Uri.✍️<br>
+I continued my work on the music player app, and finished it as planned yesterday. Added the player activity to play the fetched files. Added all the essential features like play, pause, next, previous etc. Added support to Android API 29 and above. Added some finishing touches like background and icon.💻<br>
+Today I worked for about <b>3 hours</b> out of which about 30mins went towards learning new concepts and remaining 2hrs 30 mins towards working on and finishing up the app.🕐<br>
+Link to Today's Work : [Day34 Work](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App/commit/a701c31b4ee976d968956f99546bdc57485a820e) <br>
+[App Link](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App), Downoad .apk file to try out.
