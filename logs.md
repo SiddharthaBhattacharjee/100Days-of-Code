@@ -230,6 +230,6 @@ Link to Today's Work : [Day34 Work](https://github.com/SiddharthaBhattacharjee/m
 
 ## <u>Day 35 ; Feb 5th 2022 **Saturday** : </u>
 Today, I practiced the topics of OOPs in Java and solved some practice questions in java related to OOPs.💻<br>
-I have decided that I will resume my Java course and start with learning advanced java topics before I move further with Android development, as I have recently found myself in situations where my knowledge of basic java is not enough anymore and I am moving towards adding a bit more complex features into my apps. Hence revicing the old topics would help me get a better grasp of the new ones.✍️<br>
+I have decided that I will resume my Java course and start with learning advanced java topics before I move further with Android development, as I have recently found myself in situations where my knowledge of basic java is not enough anymore and I am moving towards adding a bit more complex features into my apps. Hence revising the old topics would help me get a better grasp of the new ones.✍️<br>
 Today, I worked for <b>4 hours</b> practicing OOPs and solving problems related to OOPs in Java.🕐<br>
-Link to Today's Work : [Day35 Work](https://github.com/SiddharthaBhattacharjee/Java-OOPs-Practice/blob/master/Default_MEthods_in_interfaces.java)
+Link to Today's Work : [Day35 Work](https://github.com/SiddharthaBhattacharjee/Java-OOPs-Practice)
