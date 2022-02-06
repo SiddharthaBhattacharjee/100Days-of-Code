@@ -222,9 +222,9 @@ Today I worked for about <b>3 hours</b> out of which around 1 hour 30 minutes we
 Link to Today's Wrok : [Day33 Work](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App/commit/3c55048fe03af3133706aee59b06b60817c8cceb)
 
 ## <u>Day 34 ; Feb 4th 2022 **Friday** : </u>
-Today, I learned to work with handlers in android and how to play media fromm Uri.✍️<br>
-I continued my work on the music player app, and finished it as planned yesterday. Added the player activity to play the fetched files. Added all the essential features like play, pause, next, previous etc. Added support to Android API 29 and above. Added some finishing touches like background and icon.💻<br>
-Today I worked for about <b>3 hours</b> out of which about 30mins went towards learning new concepts and remaining 2hrs 30 mins towards working on and finishing up the app.🕐<br>
+Today, I learned to work with handlers in android and how to play media from Uri.✍️<br>
+I continued my work on the music player app and finished it as planned yesterday. Added the player activity to play the fetched files. Added all the essential features like play, pause, next, previous, etc. Added support to Android API 29 and above. Added some finishing touches like background and icon.💻<br>
+Today I worked for about <b>3 hours</b> out of which about 30mins went towards learning new concepts and the remaining 2hrs 30 mins towards working on and finishing up the app.🕐<br>
 Link to Today's Work : [Day34 Work](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App/commit/a701c31b4ee976d968956f99546bdc57485a820e) <br>
 [App Link](https://github.com/SiddharthaBhattacharjee/my-Music-Player-Android-App), Downoad .apk file to try out.
 
@@ -233,3 +233,11 @@ Today, I practiced the topics of OOPs in Java and solved some practice questions
 I have decided that I will resume my Java course and start with learning advanced java topics before I move further with Android development, as I have recently found myself in situations where my knowledge of basic java is not enough anymore and I am moving towards adding a bit more complex features into my apps. Hence revising the old topics would help me get a better grasp of the new ones.✍️<br>
 Today, I worked for <b>4 hours</b> practicing OOPs and solving problems related to OOPs in Java.🕐<br>
 Link to Today's Work : [Day35 Work](https://github.com/SiddharthaBhattacharjee/Java-OOPs-Practice)
+
+
+## <u>Day 36 ; Feb 6th 2022 **Sunday** : </u>
+Today, I resumed learning java by starting the advanced topics of java. I started with the topic of multithreading today, learned the basics about what is multithreading, what is a thread, life cycle of a thread, what is difference between multithreading and multiprocessing, difference between concurrency and parallelism, hot to create a thread in Java using Thread class or Runnable interface and lastly about how to add constructor to a thread.✍️<br>
+I solved 3 practice problems today to practice the topics I learned today.💻<br>
+// Today , the coding part is small , as it is the start of a new topic, much time was spent learning the basics. Also the amount of code will be less now compared to Android , as I am learning the topics of advanced java, I am listening to lectures and making notes which take up time.📖<br>
+Today I worked for <b>3 hours</b> out of which around 2 hours 20 mins went towards learning new topics and remaining time towards solving the practice coding questions.🕐<br>
+Link to Today's Work(Coding part) : [Day36 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/4367f3cd742163842a2890bacc5f686faf6d7e2d)
