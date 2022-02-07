@@ -241,3 +241,11 @@ I solved 3 practice problems today to practice the topics I learned today.💻<b
 // Today , the coding part is small , as it is the start of a new topic, much time was spent learning the basics. Also the amount of code will be less now compared to Android , as I am learning the topics of advanced java, I am listening to lectures and making notes which take up time.📖<br>
 Today I worked for <b>3 hours</b> out of which around 2 hours 20 mins went towards learning new topics and remaining time towards solving the practice coding questions.🕐<br>
 Link to Today's Work(Coding part) : [Day36 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/4367f3cd742163842a2890bacc5f686faf6d7e2d)
+
+
+## <u>Day 37 ; Feb 7th 2022 **Monday** : </u>
+Today, I learned about Thread Priorities and Thread Methods in Java.✍️<br>
+Then, I solved a practice set of thread which had 3 coding questions and 2 non coding questions.💻 With this, I have completed the topic of thread for now, I need to have knowlegde of OS to continue further with thread, For now, Ill be moving on to the next topic of the java course which is exception handling , this is a small topic and I already have some idea of this topic, so I hope to complete that quickly.📖<br>
+Today I worked for <b>2 hours</b> out of which around 45 mins went towards learning new topics and remaining time towards solving the practice coding questions and practice set.🕐<br>
+// Also, my grandma (mother's mausi) passed away today, so have been busy all day, that is why I worked for only 2 hours. May she Rest in Peace 🙏. I'll try to cover for it tomorrow.🙃<br>
+Link to Today's Work(Coding part) : [Day36 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/af7d6b5fc32c3308f0d02b56da70d0139d7e07e3)
