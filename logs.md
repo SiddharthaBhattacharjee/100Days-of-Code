@@ -249,3 +249,10 @@ Then, I solved a practice set of thread which had 3 coding questions and 2 non c
 Today I worked for <b>2 hours</b> out of which around 45 mins went towards learning new topics and remaining time towards solving the practice coding questions and practice set.🕐<br>
 // Also, my grandma (mother's mausi) passed away today, so have been busy all day, that is why I worked for only 2 hours. May she Rest in Peace 🙏. I'll try to cover for it tomorrow.🙃<br>
 Link to Today's Work(Coding part) : [Day36 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/af7d6b5fc32c3308f0d02b56da70d0139d7e07e3)
+
+## <u>Day 38 ; Feb 8th 2022 **Tuesday** : </u>
+Today, I started the next chapter which is exceptions and exception handling, completed the topics like about errors and exceptions, common exceptions, try catch block, handeling specific exceptions, custom exceptions using exception class, and throws key word and its uses.✍️<br>
+I solved 1 practice question from each topic I completed today.💻 The chapter is almost over and I expect to finish it by tomorrow.📖<br>
+Today I worked for <b>1 hour 40 mins</b> out of which around 50 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+// I was supposed to cover up for yesterdays low time today, but tomorrow we have a club competition, so I was working on that for most of the day. The days are getting busy, but I will coverup for sure whenever I get time. eventhough I am not breaking any rules since I coded for more than 1 hour, but I personally like keeping the time above or around 3 hour mark on non exam days.<br>
+Link to Today's Work(Coding part) : [Day37 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/32cf9fcc2c01d95124997b40bc3e63bd972a1458)
