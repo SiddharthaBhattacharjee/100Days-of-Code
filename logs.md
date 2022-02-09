@@ -256,3 +256,10 @@ I solved 1 practice question from each topic I completed today.💻 The chapter 
 Today I worked for <b>1 hour 40 mins</b> out of which around 50 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 // I was supposed to cover up for yesterdays low time today, but tomorrow we have a club competition, so I was working on that for most of the day. The days are getting busy, but I will coverup for sure whenever I get time. eventhough I am not breaking any rules since I coded for more than 1 hour, but I personally like keeping the time above or around 3 hour mark on non exam days.<br>
 Link to Today's Work(Coding part) : [Day38 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/32cf9fcc2c01d95124997b40bc3e63bd972a1458)
+
+## <u>Day 39 ; Feb 9th 2022 **Wednesday** : </u>
+Today, I finished the exception handling chapter, completed topics of throws , throw vs throws, finally block.✍️<br>
+In coding part, did all the practice problems from each topic and solved the practice set of the chapter.💻 Next chapter I will start is collection framework.📖<br>
+Today I worked for <b>1 hour 30 mins</b> out of which around 40 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+// The days are going to be busy from now on, the semister exams are starting in a few days. I will have to prepare and attend the model exams.
+Link to Today's Work(Coding part) : [Day39 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/ee2ef1a9890e775c03260e6210b668115202a8fc)
