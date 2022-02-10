@@ -263,3 +263,9 @@ In coding part, did all the practice problems from each topic and solved the pra
 Today I worked for <b>1 hour 30 mins</b> out of which around 40 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 // The days are going to be busy from now on, the semister exams are starting in a few days. I will have to prepare and attend the model exams.
 Link to Today's Work(Coding part) : [Day39 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/ee2ef1a9890e775c03260e6210b668115202a8fc)
+
+## <u>Day 40 ; Feb 10th 2022 **Thursday** : </u>
+Today, I started the new topic Collections Framework, completed the topics introduction to Collections Framework, its applications, some commonly used collections, Collections higherarchy chart, ArrayList.✍️<br>
+Then, I solved the practice questions from the ArrayList topic.💻 Again, since today was the first day of the new topic , so most of it was learning the basics and less coding today, there will be more coding part from tomorrow.📖<br>
+Today I worked for <b>1 hour 25 mins</b> out of which around 55 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+ink to Today's Work(Coding part) : [Day40 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/ecd26da528b3d3457f52df0f67062f9f97866308)
