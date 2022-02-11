@@ -269,3 +269,9 @@ Today, I started the new topic Collections Framework, completed the topics intro
 Then, I solved the practice questions from the ArrayList topic.💻 Again, since today was the first day of the new topic , so most of it was learning the basics and less coding today, there will be more coding part from tomorrow.📖<br>
 Today I worked for <b>1 hour 25 mins</b> out of which around 55 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 ink to Today's Work(Coding part) : [Day40 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/ecd26da528b3d3457f52df0f67062f9f97866308)
+
+## <u>Day 41 ; Feb 11th 2022 **Friday** : </u>
+Today, I continued the Collections Framework chapter, completed topics LinkedList, LinkedList vs ArrayList, ArrayDeque, and Basics of Hashing Technique.✍️<br>
+Solved practice problem of LinkedList and Deque.💻 Just got to learn about the very basics of Hashing technique , hence no practice set on that topic today.📖<br>
+Today I worked for <b>1 hour 35 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+ink to Today's Work(Coding part) : [Day40 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/96909395487c4de84043cc9f4f4b8fe04be92197)
