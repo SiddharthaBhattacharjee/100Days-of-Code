@@ -280,4 +280,5 @@ Link to Today's Work(Coding part) : [Day41 Work](https://github.com/SiddharthaBh
 Today, I completed the chapter of Collections Framework, completed the remaining topics of Hashing techniques and HashSet. Then, Started the new Chapter which is Date & Time in Java, completed topics Introduction, How Java calculates time, CurrentTimeMilli methods and operations on it.✍️<br>
 Solved practice problems, from HashSet and DateTime topics.💻 Made the notes for all basics of the new chapter and concepts of the previous chapters as well.📖<br>
 Today I worked for around <b>1 hour 30 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+//Work time is lower than usual these days as my sem exams are going on, I am managing studies and coding at once. I might take a few days off for the exams in the near future.
 Link to Today's Work(Coding part) : [Day42 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/4c1f1808e6264eb36409598407ce5c2673a5aed9)
