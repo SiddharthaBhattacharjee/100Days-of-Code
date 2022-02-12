@@ -268,10 +268,16 @@ Link to Today's Work(Coding part) : [Day39 Work](https://github.com/SiddharthaBh
 Today, I started the new topic Collections Framework, completed the topics introduction to Collections Framework, its applications, some commonly used collections, Collections higherarchy chart, ArrayList.✍️<br>
 Then, I solved the practice questions from the ArrayList topic.💻 Again, since today was the first day of the new topic , so most of it was learning the basics and less coding today, there will be more coding part from tomorrow.📖<br>
 Today I worked for <b>1 hour 25 mins</b> out of which around 55 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
-ink to Today's Work(Coding part) : [Day40 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/ecd26da528b3d3457f52df0f67062f9f97866308)
+Link to Today's Work(Coding part) : [Day40 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/ecd26da528b3d3457f52df0f67062f9f97866308)
 
 ## <u>Day 41 ; Feb 11th 2022 **Friday** : </u>
 Today, I continued the Collections Framework chapter, completed topics LinkedList, LinkedList vs ArrayList, ArrayDeque, and Basics of Hashing Technique.✍️<br>
 Solved practice problem of LinkedList and Deque.💻 Just got to learn about the very basics of Hashing technique , hence no practice set on that topic today.📖<br>
 Today I worked for <b>1 hour 35 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
-ink to Today's Work(Coding part) : [Day41 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/96909395487c4de84043cc9f4f4b8fe04be92197)
+Link to Today's Work(Coding part) : [Day41 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/96909395487c4de84043cc9f4f4b8fe04be92197)
+
+## <u>Day 42 ; Feb 12th 2022 **Saturday** : </u>
+Today, I completed the chapter of Collections Framework, completed the remaining topics of Hashing techniques and HashSet. Then, Started the new Chapter which is Date & Time in Java, completed topics Introduction, How Java calculates time, CurrentTimeMilli methods and operations on it.✍️<br>
+Solved practice problems, from HashSet and DateTime topics.💻 Made the notes for all basics of the new chapter and concepts of the previous chapters as well.📖<br>
+Today I worked for around <b>1 hour 30 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day42 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/4c1f1808e6264eb36409598407ce5c2673a5aed9)
