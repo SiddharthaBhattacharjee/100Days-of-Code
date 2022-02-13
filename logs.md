@@ -288,4 +288,5 @@ Link to Today's Work(Coding part) : [Day42 Work](https://github.com/SiddharthaBh
 Today, I continued the chapter of Date & Time in java, completed the topics Date Class, Calendar Class, GrigorianCalendar Class, and Time API.✍️<br>
 Also solved practice problem from each topic of today.💻 Made the notes for all the new concepts learned today.📖<br>
 Today I worked for around <b>1 hour 40 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
-Link to Today's Work(Coding part) : [Day42 Work]()
+// Again, work time is low because of exams, I will be at it will full force once again after the exams are over.
+Link to Today's Work(Coding part) : [Day43 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/39a7998c093fb75c789caa84ae6981d47a64cda8)
