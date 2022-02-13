@@ -282,3 +282,10 @@ Solved practice problems, from HashSet and DateTime topics.💻 Made the notes f
 Today I worked for around <b>1 hour 30 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 //Work time is lower than usual these days as my sem exams are going on, I am managing studies and coding at once. I might take a few days off for the exams in the near future.
 Link to Today's Work(Coding part) : [Day42 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/4c1f1808e6264eb36409598407ce5c2673a5aed9)
+
+
+## <u>Day 43 ; Feb 13th 2022 **Sunday** : </u>
+Today, I continued the chapter of Date & Time in java, completed the topics Date Class, Calendar Class, GrigorianCalendar Class, and Time API.✍️<br>
+Also solved practice problem from each topic of today.💻 Made the notes for all the new concepts learned today.📖<br>
+Today I worked for around <b>1 hour 40 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day42 Work]()
