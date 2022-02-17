@@ -290,3 +290,11 @@ Also solved practice problem from each topic of today.💻 Made the notes for al
 Today I worked for around <b>1 hour 40 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 // Again, work time is low because of exams, I will be at it will full force once again after the exams are over.<br>
 Link to Today's Work(Coding part) : [Day43 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/39a7998c093fb75c789caa84ae6981d47a64cda8)
+
+## <u> Feb 14th 2022 **Monday** : </u>
+Break to study for Sem Exams.
+
+
+## <u> Feb 15th 2022 **Tuesday** : </u>
+Break to study for Sem Exams.
+
