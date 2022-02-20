@@ -305,3 +305,12 @@ Break to study for Sem Exams.
 
 ## <u> Feb 17th 2022 **Thursday** : </u>
 Break to study for Sem Exams.
+
+## <u> Feb 18th 2022 **Friday** : </u>
+Break to study for Sem Exams.
+
+## <u> Feb 19th 2022 **Saturday** : </u>
+Break to study for Sem Exams.
+
+## <u> Feb 20th 2022 **Sunday** : </u>
+Break to study for Sem Exams.
