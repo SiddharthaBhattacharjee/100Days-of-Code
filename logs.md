@@ -306,20 +306,50 @@ Break to study for Sem Exams.
 ## <u> Feb 17th 2022 **Thursday** : </u>
 Break to study for Sem Exams.
 
+
 ## <u> Feb 18th 2022 **Friday** : </u>
 Break to study for Sem Exams.
+
 
 ## <u> Feb 19th 2022 **Saturday** : </u>
 Break to study for Sem Exams.
 
+
 ## <u> Feb 20th 2022 **Sunday** : </u>
 Break to study for Sem Exams.
+
 
 ## <u> Feb 21th 2022 **Monday** : </u>
 Break to study for Sem Exams.
 
+
 ## <u> Feb 22th 2022 **Tuesday** : </u>
 Break to study for Sem Exams.
 
+
 ## <u> Feb 23th 2022 **Wednesday** : </u>
 Break to study for Sem Exams.
+
+
+## <u> Feb 24th 2022 **Thursday** : </u>
+Break to study for Sem Exams.
+
+
+## <u> Feb 25th 2022 **Friday** : </u>
+Break to study for Sem Exams.
+
+
+## <u> Feb 26th 2022 **Saturday** : </u>
+Break to study for Sem Exams.
+
+
+## <u> Feb 27th 2022 **Sunday** : </u>
+Break to study for Sem Exams.
+
+
+## <u>Day 44 ; Feb 28th 2022 **Mondau** : </u>
+Finally, The Sem Exams are over and I am back to coding again. Feels like I am back home 😌 It was a 14 Days long leave, I will cover for the 14 days I left, as well as I will be covering 14 additional days after the 100 Days are over according to [Rules](https://github.com/SiddharthaBhattacharjee/100Days-of-Code/blob/main/Rules.md#additional-rules)<br>
+Today, I completed the chapter of Date and Time in Java, Completed the topic of DateTimeFormatter ✍️<br>
+Did the practice problem of the topic and Solved a practice problem which makes use of all topics learned so far.💻 Also made notes of todays topics.📖<br>
+Today I worked for around <b>1 hour 30 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day44 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/73fe56f616b1709e5ee62b23f888f94af4d24cf8)
