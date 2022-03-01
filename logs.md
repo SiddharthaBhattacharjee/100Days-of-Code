@@ -347,9 +347,16 @@ Break to study for Sem Exams.
 Break to study for Sem Exams.
 
 
-## <u>Day 44 ; Feb 28th 2022 **Mondau** : </u>
+## <u>Day 44 ; Feb 28th 2022 **Monday** : </u>
 Finally, The Sem Exams are over and I am back to coding again. Feels like I am back home 😌 It was a 14 Days long leave, I will cover for the 14 days I left, as well as I will be covering 14 additional days after the 100 Days are over according to [Rules](https://github.com/SiddharthaBhattacharjee/100Days-of-Code/blob/main/Rules.md#additional-rules)<br>
 Today, I completed the chapter of Date and Time in Java, Completed the topic of DateTimeFormatter ✍️<br>
-Did the practice problem of the topic and Solved a practice problem which makes use of all topics learned so far.💻 Also made notes of todays topics.📖<br>
+Did the practice problem of the topic and Solved a practice problem which makes use of all topics learned so far.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 30 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day44 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/73fe56f616b1709e5ee62b23f888f94af4d24cf8)
+
+
+## <u>Day 45 ; Mar 1st 2022 **Tuesday** : </u>
+Today, I started a new chapter which is JavaDocs. Learned about what is javadocs, how to use javadocs to generate java documentation for my code, how to add description in javadocs and how to use tags and html in javadocs.✍️<br>
+Generated javadocs of my entire package of advanced java so far, and created a javadoc of a custom java class i created today using descriptions tags and html.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>2 hour 20 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day45 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/82c64e203a927093ccab0e1ff3174de6bd1ad469)
