@@ -360,3 +360,9 @@ Today, I started a new chapter which is JavaDocs. Learned about what is javadocs
 Generated javadocs of my entire package of advanced java so far, and created a javadoc of a custom java class i created today using descriptions tags and html.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>2 hour 20 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day45 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/82c64e203a927093ccab0e1ff3174de6bd1ad469)
+
+## <u>Day 46 ; Mar 2nd 2022 **Wednesday** : </u>
+Today, I learned how to document multiple classes in a single file in javadocs and how to specify exceptions in javadocs.✍️<br>
+Solved a practice project, the statement was to create a queue class using arraylist and use proper custom exception handling in it and document it properly. This mini project required the use of most of the topics I have learned so far in this course.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>3 hour</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day45 Work (class part)](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/blob/3d9d96f795a6583dfa8af984ebe124c4d0d7f831/PS4_Q_CustomQueue.java)  ,  [Day45 Work (documentation part)](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/tree/3d9d96f795a6583dfa8af984ebe124c4d0d7f831/DOCS/PS4_Q_queueClassDoc)
