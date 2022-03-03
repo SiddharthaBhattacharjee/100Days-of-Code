@@ -365,4 +365,12 @@ Link to Today's Work(Coding part) : [Day45 Work](https://github.com/SiddharthaBh
 Today, I learned how to document multiple classes in a single file in javadocs and how to specify exceptions in javadocs.✍️<br>
 Solved a practice project, the statement was to create a queue class using arraylist and use proper custom exception handling in it and document it properly. This mini project required the use of most of the topics I have learned so far in this course.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>3 hour</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
-Link to Today's Work(Coding part) : [Day45 Work (JavaClass part)](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/blob/3d9d96f795a6583dfa8af984ebe124c4d0d7f831/PS4_Q_CustomQueue.java)  ,  [Day45 Work (documentation part)](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/tree/3d9d96f795a6583dfa8af984ebe124c4d0d7f831/DOCS/PS4_Q_queueClassDoc)
+Link to Today's Work(Coding part) : [Day46 Work (JavaClass part)](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/blob/3d9d96f795a6583dfa8af984ebe124c4d0d7f831/PS4_Q_CustomQueue.java)  ,  [Day46 Work (documentation part)](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/tree/3d9d96f795a6583dfa8af984ebe124c4d0d7f831/DOCS/PS4_Q_queueClassDoc)
+
+
+## <u>Day 47 ; Mar 3nd 2022 **Thursday** : </u>
+Today I completed 4 chapters of my advanced java cource, which were Anotations, Anonymous classes and Lambda expressions, Java generics, File handling. With that I have Completed the Advanced java course and java course as a whole.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>4 hour 30 mins</b> out of which around 2 hour 20 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+//I have decided to start learning the C++ language next so that I can advance with some DS Algo, but I will also learn any skill which I might need for tacleing a project. and take the C++ course slowly with all that.📢 <br>
+Link to Today's Work(Coding part) : [Day47 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/caa795a2e6fbaa9412b5321fdb47e2d9cac9bd7d)
