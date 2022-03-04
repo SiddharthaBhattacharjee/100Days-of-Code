@@ -374,3 +374,11 @@ solved practice problems from each topic I learned today.💻 Also made notes of
 Today I worked for around <b>4 hour 30 mins</b> out of which around 2 hour 20 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 //I have decided to start learning the C++ language next so that I can advance with some DS Algo, but I will also learn any skill which I might need for tacleing a project. and take the C++ course slowly with all that.📢 <br>
 Link to Today's Work(Coding part) : [Day47 Work](https://github.com/SiddharthaBhattacharjee/Advanced-Java-Practice-Learning/commit/caa795a2e6fbaa9412b5321fdb47e2d9cac9bd7d)
+
+
+## <u>Day 48 ; Mar 4th 2022 **Friday** : </u>
+Today, I have started a new course to learn C++. I have started the 1st chapter and completed the topics Introduction to C++, basic C++ program structure, namespace, variables.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today was the 1st day of the cource, hence most of it was theoritical part and less coding part. There will be more coding part as I progress further into the course.📖<br>
+Today I worked for around <b>1 hour 20 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day48 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/36896786fc090dc5c58ac217756cd198c59833e7)
