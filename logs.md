@@ -382,3 +382,10 @@ solved practice problems from each topic I learned today.💻 Also made notes of
 Today was the 1st day of the cource, hence most of it was theoritical part and less coding part. There will be more coding part as I progress further into the course.📖<br>
 Today I worked for around <b>1 hour 20 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day48 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/36896786fc090dc5c58ac217756cd198c59833e7)
+
+
+## <u>Day 49 ; Mar 5th 2022 **Saturday** : </u>
+Today, I have continued the C++ course , completed the topics : Variable Scope, Basic IO, Operators, Types of Operators, Accessing Global Variables, Reference Variables, Type Casting.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hour 40 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day49 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/4d2f60a6c08385e54a04c13b5224774194eb98ba)
