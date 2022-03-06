@@ -392,7 +392,7 @@ Link to Today's Work(Coding part) : [Day49 Work](https://github.com/SiddharthaBh
 
 
 ## <u>Day 50; Mar 5th 2022 **Sunay** : </u>
-🥳 <b>50 Days Completed</b> 🥳
+🥳 <b>50 Days Completed</b> 🥳<br>
 Today, I have continued the C++ course , completed the topics : Constants, Manipulators, Operator presidence, Control Structures, Types of Control Structures, If else if else, switch cases.✍️<br>
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 35 mins </b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
