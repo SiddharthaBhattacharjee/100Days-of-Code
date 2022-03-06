@@ -389,3 +389,11 @@ Today, I have continued the C++ course , completed the topics : Variable Scope, 
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 40 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day49 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/4d2f60a6c08385e54a04c13b5224774194eb98ba)
+
+
+## <u>Day 50; Mar 5th 2022 **Sunay** : </u>
+🥳 <b>50 Days Completed</b> 🥳
+Today, I have continued the C++ course , completed the topics : Constants, Manipulators, Operator presidence, Control Structures, Types of Control Structures, If else if else, switch cases.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hour 35 mins </b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day50 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/f0b665910794dd4dea010ed0f922b22f1957feaf)
