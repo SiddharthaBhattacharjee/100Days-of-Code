@@ -391,15 +391,21 @@ Today I worked for around <b>1 hour 40 mins</b> out of which around 1 hour went 
 Link to Today's Work(Coding part) : [Day49 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/4d2f60a6c08385e54a04c13b5224774194eb98ba)
 
 
-## <u>Day 50; Mar 5th 2022 **Sunday** : </u>
+## <u>Day 50; Mar 6th 2022 **Sunday** : </u>
 🥳 <b>50 Days Completed</b> 🥳<br>
 Today, I have continued the C++ course , completed the topics : Constants, Manipulators, Operator presidence, Control Structures, Types of Control Structures, If else if else, switch cases.✍️<br>
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 35 mins </b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day50 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/f0b665910794dd4dea010ed0f922b22f1957feaf)
 
-## <u>Day 51; Mar 6th 2022 **Monday** : </u>
+## <u>Day 51; Mar 7th 2022 **Monday** : </u>
 Today, I have continued the C++ course , completed the topics : For Loop, While loop, Do while loop, and Pointers✍️<br>
 solved practice problems from each topic I learned today, on top of that, solved a practice problem of making a prime number determining program.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 40 mins </b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
-Link to Today's Work(Coding part) : [Day50 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/96c79823c8fd0f4bb4923d45938057829f790cf8)
+Link to Today's Work(Coding part) : [Day51 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/96c79823c8fd0f4bb4923d45938057829f790cf8)
+
+## <u>Day 52; Mar 8th 2022 **Tuesday** : </u>
+Today, I have continued the C++ course , completed the topics : Arrays, array operations using loops, pointer aritmnatic, Structures, Unions, Enum.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hour 45 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day52 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/f94c5db44c456244f3ada9f185839bdc3d3bc04b)
