@@ -405,7 +405,7 @@ Today I worked for around <b>1 hour 40 mins </b> out of which around 1 hour went
 Link to Today's Work(Coding part) : [Day51 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/96c79823c8fd0f4bb4923d45938057829f790cf8)
 
 ## <u>Day 52; Mar 8th 2022 **Tuesday** : </u>
-Today, I have continued the C++ course , completed the topics : Arrays, array operations using loops, pointer aritmnatic, Structures, Unions, Enum.✍️<br>
+Today, I have continued the C++ course , completed the topics : Arrays, array operations using loops, pointer aritmnatic, Structures, typedef, Unions, Enum.✍️<br>
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 45 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day52 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/f94c5db44c456244f3ada9f185839bdc3d3bc04b)
