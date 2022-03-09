@@ -409,3 +409,11 @@ Today, I have continued the C++ course , completed the topics : Arrays, array op
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hour 45 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day52 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/f94c5db44c456244f3ada9f185839bdc3d3bc04b)
+
+
+## <u>Day 53; Mar 9th 2022 **Wednesday** : </u>
+Today, I have continued the C++ course , completed the topics :Introduction to functions, function Prototyping, Function Call by reference and Reference Variables, Returning reference from a function, Static variables in function, Inline Functions, Default Arguements.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>2 hours</b> out of which around 1 hour 20 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day53 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/8109ac97667ce738b30e76dc9ddbc0288d45630c)
+// Also, renamed and organised my codes a bit, so ignore all the file renamed no change on the top of code part.
