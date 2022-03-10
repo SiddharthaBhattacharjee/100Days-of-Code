@@ -412,8 +412,14 @@ Link to Today's Work(Coding part) : [Day52 Work](https://github.com/SiddharthaBh
 
 
 ## <u>Day 53; Mar 9th 2022 **Wednesday** : </u>
-Today, I have continued the C++ course , completed the topics :Introduction to functions, function Prototyping, Function Call by reference and Reference Variables, Returning reference from a function, Static variables in function, Inline Functions, Default Arguements.✍️<br>
+Today, I have continued the C++ course , completed the topics : Introduction to functions, function Prototyping, Function Call by reference and Reference Variables, Returning reference from a function, Static variables in function, Inline Functions, Default Arguements.✍️<br>
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>2 hours</b> out of which around 1 hour 20 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day53 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/8109ac97667ce738b30e76dc9ddbc0288d45630c)
 // Also, renamed and organised my codes a bit, so ignore all the file renamed no change on the top of code part.
+
+## <u>Day 54; Mar 10th 2022 **Thursday** : </u>
+Today, I have continued the C++ course , completed the topics : Recursion and Function Overloading.✍️<br>
+solved practice problems from each topic I learned today, on top of that, solved some practice set questions of recursion and array (sorting array, factorial using recursion, fibonacci series using recursion, fibonacci term using recursion).💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hours 30 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day54 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/3e3f79dd8c74c46e9d414b755fd8382a731bb659)
