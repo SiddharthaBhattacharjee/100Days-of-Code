@@ -423,3 +423,12 @@ Today, I have continued the C++ course , completed the topics : Recursion and Fu
 solved practice problems from each topic I learned today, on top of that, solved some practice set questions of recursion and array (sorting array, factorial using recursion, fibonacci series using recursion, fibonacci term using recursion).💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hours 30 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day54 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/3e3f79dd8c74c46e9d414b755fd8382a731bb659)
+
+## <u>Mar 11th 2022 **Friday** : </u>
+I took a break as I was not feeling well, and desperately needed some rest. Feeling much better today and I am back to coding.
+
+## <u>Day 55; Mar 12th 2022 **Saturday** : </u>
+Today, I solved the practice set of C++, solved practice questions on all topics covered so far in c++, like sorting array, binary searching an array, checking if string is pelindrome, star pattern problems, checking for most occuring number in array.💻
+From tomorrow, I will start Object Oriented Programming topics in C++ as I have completed all the basic topics.✍️<br>
+Today I worked for around <b>2 hours</b> solving the practice problems.🕐<br>
+Link to Today's Work : [Day55 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/bfbcfbbc6da9a8be1ac3be2be46ad7edabf3d3e7)
