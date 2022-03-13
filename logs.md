@@ -432,3 +432,9 @@ Today, I solved the practice set of C++, solved practice questions on all topics
 From tomorrow, I will start Object Oriented Programming topics in C++ as I have completed all the basic topics.✍️<br>
 Today I worked for around <b>2 hours</b> solving the practice problems.🕐<br>
 Link to Today's Work : [Day55 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/bfbcfbbc6da9a8be1ac3be2be46ad7edabf3d3e7)
+
+## <u>Day 56; Mar 13th 2022 **Sunday** : </u>
+Today, I started OOPs chapter in C++, completed the topics : Introduction to OOPs, OOP vs POP, basic components of OOPs, Classes and objects, structure vs classes, private and public, and Nesting of member functions.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics, notes part was more today as its the first class of this chapter.📖<br>
+Today I worked for around <b>2 hrs</b> out of which around 1 hour 15 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day56 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/60ebb387f7ebfdea12e6209cc4e5847a43fcad82)
