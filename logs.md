@@ -444,3 +444,10 @@ Today, I continued OOPs chapter in C++, completed the topics : Array in Classes,
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>2 hours</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day57 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/8723b33b75b58211d98d0c6e1fe0a75399570b41)
+
+## <u>Day 58; Mar 15th 2022 **Tuesday** : </u>
+Today, I took a day break from C++ course, as our college gave us a new website to practice our programming skills by solving problems, It has a college wide ranking system and leaderboard. so, I completed the 1st topic of C in it. In total, solved 10 questions , out of which 3 are not accepted due to complexions not reached.💻<br>
+I have copied the code from the website to VScode , so that I can keep record of the programs and link it in challenge. however, the problem statement couldn't be copied, so statements of the programs are not included in the code part.<br>
+I spent approximately 1.5 hours completing the problems.🕐<br>
+Link to Today's Work : [Day58 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/a7537bb2b44005f89e1329cfe87872e56f04cef2)<br>
+// This website features questions from basic topics of C, but is a good practice , also it has a similar ui and system like most CP websites like leetcode , hackerrank etc. So, doing this could make me a bit familiar to how to get going with those at the beginning when I start doing CP.  FROM TOMORROW, I WILL RESUME MY C++ COURSE AGAIN.
