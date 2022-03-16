@@ -451,3 +451,9 @@ I have copied the code from the website to VScode , so that I can keep record of
 I spent approximately 1.5 hours completing the problems.🕐<br>
 Link to Today's Work : [Day58 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/a7537bb2b44005f89e1329cfe87872e56f04cef2)<br>
 // This website features questions from basic topics of C, but is a good practice , also it has a similar ui and system like most CP websites like leetcode , hackerrank etc. So, doing this could make me a bit familiar to how to get going with those at the beginning when I start doing CP.  FROM TOMORROW, I WILL RESUME MY C++ COURSE AGAIN.
+
+## <u>Day 59; Mar 16th 2022 **Wednesday** : </u>
+Today, I continued OOPs chapter in C++, completed the topics : Friend Functions, Properties of Friend Functions, Friend Member functions of external class, Friend class.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hours 15mins</b> out of which around 40 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day59 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/90aa3e5eb1f76ba7bb26eab1252d61e4018c8401)
