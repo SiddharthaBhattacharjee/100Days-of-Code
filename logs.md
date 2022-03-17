@@ -457,3 +457,9 @@ Today, I continued OOPs chapter in C++, completed the topics : Friend Functions,
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hours 15mins</b> out of which around 40 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day59 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/90aa3e5eb1f76ba7bb26eab1252d61e4018c8401)
+
+## <u>Day 60; Mar 16th 2022 **Thursday** : </u>
+Today, I continued OOPs chapter in C++, completed the topics : Friend class Function Friends to multiple classes, Class pvt data manipulation from friend function, Constructors, Default and Parameterized Constructors, Constructor Overloading.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>2 hours 10 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work(Coding part) : [Day60 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/7c714e20673f140f27bf752703ffe363f4906382)
