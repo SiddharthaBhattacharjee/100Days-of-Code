@@ -464,8 +464,15 @@ solved practice problems from each topic I learned today.💻 Also made notes of
 Today I worked for around <b>2 hours 10 mins</b> out of which around 1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day60 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/7c714e20673f140f27bf752703ffe363f4906382)
 
-## <u>Day 61; Mar 16th 2022 **Friday** : </u>
+## <u>Day 61; Mar 18th 2022 **Friday** : </u>
 Today, I continued OOPs chapter in C++, completed the topics : Default args in Constructor, Dynamic Initialization of object using constructors., Copy constructors.✍️<br>
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hours 15 mins</b> out of which around 35 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work(Coding part) : [Day61 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/9bd38dd840ed2141f41f8c85810a893acf2b457d)
+
+## <u>Day 62; Mar 19th 2022 **Saturday** : </u>
+Today, I continued OOPs chapter in C++, completed the topics : Destructor, Inheritance, Types of Inheritance(Single Inheritance,  Multiple Inheritance, Hierarchial Inheritance, Multilevel Inheritance, Hybrid Inheritance), Visibility mode of Inheritance.✍️<br>
+solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hours 10 mins</b> out of which around 40 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+//Today's Topics were theory heavy, so the quantity of code is a bit less compared to other days.<br>
+Link to Today's Work(Coding part) : [Day61 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/ea8f660674ff2801907284b337c963e8bdbdc528)
