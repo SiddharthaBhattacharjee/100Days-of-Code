@@ -477,7 +477,7 @@ Today I worked for around <b>1 hours 10 mins</b> out of which around 40 mins wen
 //Today's Topics were theory heavy, so the quantity of code is a bit less compared to other days.<br>
 Link to Today's Work(Coding part) : [Day62 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/ea8f660674ff2801907284b337c963e8bdbdc528)
 
-## <u>Day 62; Mar 20th 2022 **Sunday** : </u>
+## <u>Day 63; Mar 20th 2022 **Sunday** : </u>
 Today, I continued OOPs chapter in C++, completed the topics : Private and Public Inheritance, Single Inheritance, Protected access Modifier, Protected Inheritance.✍️<br>
 solved practice problems from each topic I learned today.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hours 25 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
