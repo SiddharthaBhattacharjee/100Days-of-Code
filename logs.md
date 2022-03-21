@@ -483,3 +483,10 @@ solved practice problems from each topic I learned today.💻 Also made notes of
 Today I worked for around <b>1 hours 25 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 //Today's Topics were concept heavy(hence heavily commented code), so the quantity of code is a bit less compared to other days.<br>
 Link to Today's Work(Coding part) : [Day63 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/b6acf0a6b4e1f537d76ba930ac3e19214d0b9c5a)
+
+## <u>Day 64; Mar 21th 2022 **Monday** : </u>
+Today, I took a day off from learning and solved some Leetcode questions on basic C++ for revising every topic in C++ I have covered so far. I always prefer to step back from learning and taking a good look on what I covered so far to prevent me from forgetting older topics as I take on newer ones.💻<br>
+I have copied the statement and code from LeeatCode to upload and keep it documented for future reference as well as the challenge.✍️<br>
+Today I worked for around <b>1 hours 45 mins</b> solving the coding problems problems.🕐<br>
+I am very new to Leetcode , and I have no prior knowledge of DS and Algo. So I might have spent more time than what is usually needed to solve such problems. I hope to change it in the near future.<br>
+Link to Today's Work : [Day64 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/cf049d92dc3fa049c22558d8fc0b8970ebf7ce9f)
