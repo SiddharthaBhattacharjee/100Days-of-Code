@@ -502,3 +502,9 @@ Today, I solved a practice exercise on C++ OOPs on topic of Inheritance, other t
 As I am moving from my home to chennai for offline college next week, I am busy preparing and shopping for the move, Hence I am not able to code as much as I would like to.<br>
 Today I worked for around <b>1 hour 15 mins</b> coding the practice problems of C and C++.🕐<br>
 Link to Today's Work (coding part) : [Day66 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/64d82b0234d00638dd8b8b5dddf183623e3a046c) , [Day66 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/46a2df6ab69fa1d80afb04383ee71c019534926a)
+
+## <u>Day 67; Mar 24nd 2022 **Thursday** : </u>
+Today, I continued OOPs chapter in C++, completed the topics : Ambiguity resolution in Inheritance, Overriding methods in Inheritance.✍️<br>
+solved practice problems from each topic I learned today and solved some C problems from eLab.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hours 5 mins</b> out of which around 25 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work (coding part) : [Day67 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/fc856757ad892c46eb57ad76bd16371caff8339c) , [Day67 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/9ba22613645608c66979d24391299a83abf2513d)
