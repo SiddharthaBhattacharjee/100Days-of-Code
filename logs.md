@@ -497,14 +497,20 @@ solved practice problems from each topic I learned today and solved some C probl
 Today I worked for around <b>2 hours 30 mins</b> out of which around 45 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work (coding part) : [Day65 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/24ab9f8ccb151916135ae4f827983caa65528a6d) , [Day65 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/0c1346a2a80fa981433ded28999eddf97f184190)
 
-## <u>Day 66; Mar 23nd 2022 **Wednesday** : </u>
+## <u>Day 66; Mar 23rd 2022 **Wednesday** : </u>
 Today, I solved a practice exercise on C++ OOPs on topic of Inheritance, other than that I have solved some C problems from eLab.💻
 As I am moving from my home to chennai for offline college next week, I am busy preparing and shopping for the move, Hence I am not able to code as much as I would like to.<br>
 Today I worked for around <b>1 hour 15 mins</b> coding the practice problems of C and C++.🕐<br>
 Link to Today's Work (coding part) : [Day66 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/64d82b0234d00638dd8b8b5dddf183623e3a046c) , [Day66 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/46a2df6ab69fa1d80afb04383ee71c019534926a)
 
-## <u>Day 67; Mar 24nd 2022 **Thursday** : </u>
+## <u>Day 67; Mar 24th 2022 **Thursday** : </u>
 Today, I continued OOPs chapter in C++, completed the topics : Ambiguity resolution in Inheritance, Overriding methods in Inheritance.✍️<br>
 solved practice problems from each topic I learned today and solved some C problems from eLab.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hours 5 mins</b> out of which around 25 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work (coding part) : [Day67 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/fc856757ad892c46eb57ad76bd16371caff8339c) , [Day67 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/9ba22613645608c66979d24391299a83abf2513d)
+
+## <u>Day 68; Mar 24th 2022 **Friday** : </u>
+Today, I continued OOPs chapter in C++, completed the topic Virtual Base class.✍️<br>
+solved practice problems from each topic I learned today, solved a Exercise problem of OOPs in C++ and solved some C problems from eLab.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>2 hrs 10 mins</b> out of which around 35 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work (coding part) : [Day68 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/cea7cebd5f0bd602f77e85fc7d138d947e474eba) , [Day68 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/20126f04409e5b8f0982b7ba60a62c5183e9a5a3)
