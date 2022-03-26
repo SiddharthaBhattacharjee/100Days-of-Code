@@ -509,8 +509,11 @@ solved practice problems from each topic I learned today and solved some C probl
 Today I worked for around <b>1 hours 5 mins</b> out of which around 25 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work (coding part) : [Day67 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/fc856757ad892c46eb57ad76bd16371caff8339c) , [Day67 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/9ba22613645608c66979d24391299a83abf2513d)
 
-## <u>Day 68; Mar 24th 2022 **Friday** : </u>
+## <u>Day 68; Mar 25th 2022 **Friday** : </u>
 Today, I continued OOPs chapter in C++, completed the topic Virtual Base class.✍️<br>
 solved practice problems from each topic I learned today, solved a Exercise problem of OOPs in C++ and solved some C problems from eLab.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>2 hrs 10 mins</b> out of which around 35 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work (coding part) : [Day68 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/cea7cebd5f0bd602f77e85fc7d138d947e474eba) , [Day68 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/20126f04409e5b8f0982b7ba60a62c5183e9a5a3)
+
+## <u> Mar 26th 2022 **Saturday** : </u>
+I am moving to hostel on 30th Marc, which is 4 days from now, hence I am busy with packing and preping, and I also want to spend some time with my family in my last few days of staying home. I will start posting code again when I have setteled in the new city. This is a big part of my life as I am moving out of home for the first time, I think I deserve a few days of leave. I will cover up for that by doing double the days later.
