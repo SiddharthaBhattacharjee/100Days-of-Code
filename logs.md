@@ -515,5 +515,11 @@ solved practice problems from each topic I learned today, solved a Exercise prob
 Today I worked for around <b>2 hrs 10 mins</b> out of which around 35 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work (coding part) : [Day68 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/cea7cebd5f0bd602f77e85fc7d138d947e474eba) , [Day68 Work C eLab](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/20126f04409e5b8f0982b7ba60a62c5183e9a5a3)
 
-## <u> Mar 26th 2022 **Saturday** : </u>
+## <u> Mar 26th 2022 **Saturday** - April 4th 2022 **Monday**: </u>
 I am moving to hostel on 30th Marc, which is 4 days from now, hence I am busy with packing and preping, and I also want to spend some time with my family in my last few days of staying home. I will start posting code again when I have setteled in the new city. This is a big part of my life as I am moving out of home for the first time, I think I deserve a few days of leave. I will cover up for that by doing double the days later.
+
+## <u>Day 69; April 5th 2022 **Tuesday** : </u>
+It is nice to be back at coding, I have finally settled in my hostel in chennai and from today I will continue the challenge as usual, I will cover up for the missed days by doing twice the days as per the rules.✍️<br>
+Solved some problems from C in elab, Couldn't learn any new topic because I still don't have access to hostel wifi.💻
+Today I worked for around <b>1 hour 10 mins</b> solving the C problems.🕐<br>
+Link to Today's Work (coding part) : [Day69 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/c3b3046063a35a6a06158591436a0c51756157ef)
