@@ -523,3 +523,9 @@ It is nice to be back at coding, I have finally settled in my hostel in chennai 
 Solved some problems from C in elab, Couldn't learn any new topic because I still don't have access to hostel wifi.💻
 Today I worked for around <b>1 hour 10 mins</b> solving the C problems.🕐<br>
 Link to Today's Work (coding part) : [Day69 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/c3b3046063a35a6a06158591436a0c51756157ef)
+
+## <u>Day 70; April 6th 2022 **Wednesday** : </u>
+We just moved into college and we already have our CT1 exams😣 But since I have recently taken a long break, I will try my best to complete the exams without taking breaks. It is much harder for me to manage time in offline mode as compared to online, but that won't stop me from completing the challenge, I will do my best adapt and overcome thr problem.<br>
+Solved some problems from C in elab.💻
+Today I worked for around <b>1 hour</b> solving the C problems.🕐<br>
+Link to Today's Work (coding part) : [Day70 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/17492b3711e6adc1a45c57357804ed162728a626)
