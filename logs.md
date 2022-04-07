@@ -529,3 +529,8 @@ We just moved into college and we already have our CT1 exams😣 But since I hav
 Solved some problems from C in elab.💻
 Today I worked for around <b>1 hour</b> solving the C problems.🕐<br>
 Link to Today's Work (coding part) : [Day70 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/17492b3711e6adc1a45c57357804ed162728a626)
+
+## <u>Day 71; April 7th 2022 **Thursday** : </u>
+Started working on a personal android app project. I am making an app to show my class timetable and messfood chart day wise with clock to keep track of what period it is.💻 I hope to finish the app within 1-2 more days. It has been a while since my last android project, so it is a good time to revice, also The app will provide convenience to my day to day life.✍️<br>
+Today I worked for around <b>2 hours</b> on the app.🕐<br>
+Link to Today's Work : [Day71 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/dc884d3d0a67e911b2d584fe9458127f5151dd74)
