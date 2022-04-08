@@ -534,3 +534,9 @@ Link to Today's Work (coding part) : [Day70 Work](https://github.com/SiddharthaB
 Started working on a personal android app project. I am making an app to show my class timetable and messfood chart day wise with clock to keep track of what period it is.💻 I hope to finish the app within 1-2 more days. It has been a while since my last android project, so it is a good time to revice, also The app will provide convenience to my day to day life.✍️<br>
 Today I worked for around <b>2 hours</b> on the app.🕐<br>
 Link to Today's Work : [Day71 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/dc884d3d0a67e911b2d584fe9458127f5151dd74)
+
+## <u>Day 72; April 8th 2022 **Friday** : </u>
+Continued my work on the personal android app, created the time table part today, only the mess food chart part is remainig.💻
+I will finish the app by tomorrow and move on to the next project/topic.✍️<br>
+Today I worked for around <b>2 hours 30 mins</b> on the app.🕐<br>
+Link to Today's Work : [Day72 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/03522757e3f995c2e417684981412a1c936bfbbe)
