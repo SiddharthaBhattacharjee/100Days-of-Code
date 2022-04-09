@@ -540,3 +540,9 @@ Continued my work on the personal android app, created the time table part today
 I will finish the app by tomorrow and move on to the next project/topic.✍️<br>
 Today I worked for around <b>2 hours 30 mins</b> on the app.🕐<br>
 Link to Today's Work : [Day72 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/03522757e3f995c2e417684981412a1c936bfbbe)
+
+## <u>Day 73; April 9th 2022 **Saturday** : </u>
+Finished the first version of the app, and distributed the finished app to my classmates to use.💻<br>
+Also, from monday, I have my exams, so I might be coding for less time , but I will try my best not to miss any day. I will most likely do practice problems as those tend to take less amount of time.✍️<br>
+Today I worked for around <b>3 hours</b> on the app.🕐<br>
+Link to Today's Work : [Day73 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/6381055436a68c0bd677b7cd85bf438a8c80e17a)
