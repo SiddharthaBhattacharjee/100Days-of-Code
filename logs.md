@@ -546,3 +546,9 @@ Finished the first version of the app, and distributed the finished app to my cl
 Also, from monday, I have my exams, so I might be coding for less time , but I will try my best not to miss any day. I will most likely do practice problems as those tend to take less amount of time.✍️<br>
 Today I worked for around <b>3 hours</b> on the app.🕐<br>
 Link to Today's Work : [Day73 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/6381055436a68c0bd677b7cd85bf438a8c80e17a)
+
+## <u>Day 74; April 10th 2022 **Sunday** : </u>
+Today, I continued OOPs chapter in C++, completed the topic constructors in multiple Inheritance & initialization list in constructor.✍️<br>
+solved practice problems from each topic I learned today and some general practice problems.💻 Also made notes of today's topics.📖<br>
+Today I worked for around <b>1 hr</b> out of which around 25 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work : [Day74 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/922aaca7bdfe386ff1ea9e4e337b6c5e7a14d4d5)
