@@ -552,3 +552,9 @@ Today, I continued OOPs chapter in C++, completed the topic constructors in mult
 solved practice problems from each topic I learned today and some general practice problems.💻 Also made notes of today's topics.📖<br>
 Today I worked for around <b>1 hr</b> out of which around 25 mins went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work : [Day74 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/922aaca7bdfe386ff1ea9e4e337b6c5e7a14d4d5)
+
+## <u>Day 75; April 11th 2022 **Monday** : </u>
+Today, I solved some practice elab quetions of C.💻<br>
+I coded for <b>1 hours</b> solving  the problems.🕐<br>
+Today, I am only coding for 1 hour because my exams are going on, as well as classes, and it is very hard for me to give much time to coding today. I will cover up by doing more time after the exam.✍️<br>
+Link to Today's Work : [Day75 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/20a2923b798f127763846177fe77b35a1227dd56)
