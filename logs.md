@@ -563,4 +563,4 @@ Link to Today's Work : [Day75 Work](https://github.com/SiddharthaBhattacharjee/C
 Today, I Worked on an update of the timetable app based on feedback from the users, Now it shows the current ongoing period and the theme of mess food section is updated.💻<br>
 I haven't coded much today, as today I had exams and classes whole day as well as I have exam tomorrow.✍️<br>
 I coded for <b>1 hours</b> solving  the problems.🕐<br>
-Link to Today's Work : [Day76 Work]()
+Link to Today's Work : [Day76 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/1e0bfe6b18a0fbbbc89ec797701b795ab2484602)
