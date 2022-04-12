@@ -558,3 +558,9 @@ Today, I solved some practice elab quetions of C.💻<br>
 I coded for <b>1 hours</b> solving  the problems.🕐<br>
 Today, I am only coding for 1 hour because my exams are going on, as well as classes, and it is very hard for me to give much time to coding today. I will cover up by doing more time after the exam.✍️<br>
 Link to Today's Work : [Day75 Work](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/20a2923b798f127763846177fe77b35a1227dd56)
+
+## <u>Day 76; April 12th 2022 **Tuesday** : </u>
+Today, I Worked on an update of the timetable app based on feedback from the users, Now it shows the current ongoing period and the theme of mess food section is updated.💻<br>
+I haven't coded much today, as today I had exams and classes whole day as well as I have exam tomorrow.✍️<br>
+I coded for <b>1 hours</b> solving  the problems.🕐<br>
+Link to Today's Work : [Day76 Work]()
