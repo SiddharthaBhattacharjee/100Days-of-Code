@@ -564,3 +564,13 @@ Today, I Worked on an update of the timetable app based on feedback from the use
 I haven't coded much today, as today I had exams and classes whole day as well as I have exam tomorrow.✍️<br>
 I coded for <b>1 hours</b> solving  the problems.🕐<br>
 Link to Today's Work : [Day76 Work](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/1e0bfe6b18a0fbbbc89ec797701b795ab2484602)
+
+## <u>April 13th - April 15th 2022 : </u>
+I had to take a mental health break. It has been hard to adapt to the new city away from the comfort of home and It has been stressful at times. I am back stronger than before now and hope to complete the challenge without much more breaks.
+
+## <u>Day 77; April 16th 2022 **Saturday** : </u>
+Solved some leetcode questions in C++ 💻<br>
+Reviced the theory part of C++ OOPs ✍️<br>
+I have my exams going on, so I am coding less to give more time to my studies. I will be coding more once the exam ends.<br>
+I coded for <b>1 hours</b> solving  the problems.🕐<br>
+Link to Today's Work : [Day77 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/90b541e0e1a486570f3ed6049de0e507affc6d11)
