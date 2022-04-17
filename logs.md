@@ -574,3 +574,9 @@ Reviced the theory part of C++ OOPs ✍️<br>
 I have my exams going on, so I am coding less to give more time to my studies. I will be coding more once the exam ends.<br>
 I coded for <b>1 hours</b> solving  the problems.🕐<br>
 Link to Today's Work : [Day77 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/90b541e0e1a486570f3ed6049de0e507affc6d11)
+
+## <u>Day 78; April 17th 2022 **Sunday** : </u>
+Solved some leetcode questions in C++ 💻<br>
+I have my exams going on, so I am coding less to give more time to my studies. I will be coding more once the exam ends.<br>
+I coded for <b>1 hours</b> solving  the problems.🕐<br>
+Link to Today's Work : [Day78 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/8aa63f343ff71f0517ef0d6f00f911f2fba6e648)
