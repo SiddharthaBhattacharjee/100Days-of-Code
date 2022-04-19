@@ -537,6 +537,6 @@ Link to Today's Work : [Day79 Work C++](https://github.com/SiddharthaBhattacharj
 
 ## <u>Day 80; April 19th 2022 **Tuesday** : </u>
 Solved some leetcode questions in C++ 💻<br>
-Reviced the arrays topic for practicals in college.✍️<br>
+Reviced the arrays topic for practicals in college and some CSS.✍️<br>
 I coded for <b>1 hours 30 mins</b> solving  the problems.🕐<br>
 Link to Today's Work : [Day80 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/b51fc34bdeaf615509f96fb6af6358280d698615)
