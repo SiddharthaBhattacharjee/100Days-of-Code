@@ -587,3 +587,9 @@ Solved some leetcode questions in C++ and solved some practice questions of C fr
 I still have my exams going on, so I am coding less to give more time to my studies. I will be coding more once the exam ends.<br>
 I coded for <b>1 hours</b> solving  the problems.🕐<br>
 Link to Today's Work : [Day79 Work C++](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/7d63527ff94212f8760e5cf881922de13933fab9)  ,  [Day79 Work C](https://github.com/SiddharthaBhattacharjee/C_Problems/commit/19cab9f7e9999ccdad99c92981262471623019d6)
+
+## <u>Day 80; April 19th 2022 **Tuesday** : </u>
+Solved some leetcode questions in C++ 💻<br>
+Reviced the arrays topic for practicals in college.✍️<br>
+I coded for <b>1 hours 30 mins</b> solving  the problems.🕐<br>
+Link to Today's Work : [Day80 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/b51fc34bdeaf615509f96fb6af6358280d698615)
