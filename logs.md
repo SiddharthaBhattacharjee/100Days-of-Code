@@ -540,3 +540,8 @@ Solved some leetcode questions in C++ 💻<br>
 Reviced the arrays topic for practicals in college and some CSS.✍️<br>
 I coded for <b>1 hours 30 mins</b> solving  the problems.🕐<br>
 Link to Today's Work : [Day80 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/b51fc34bdeaf615509f96fb6af6358280d698615)
+
+## <u>Day 81; April 20th 2022 **Wednesday** : </u>
+Today, I taught my friends the basics of Android Studio, and while doing so, I created a simple pelindrome checker app to give them the walkthrough of how to make android apps.💻<br>
+I coded for <b>2 hours 20 mins</b> making the app and explaining the concepts.🕐<br>
+Link to Today's Work : [Day81 Work](https://github.com/SiddharthaBhattacharjee/PelindromeApp/commit/bd887a5b78be8726aa3f812d6e6d247450ec97c2)
