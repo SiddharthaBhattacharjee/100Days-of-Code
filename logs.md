@@ -546,9 +546,17 @@ Today, I taught my friends the basics of Android Studio, and while doing so, I c
 I coded for <b>2 hours 20 mins</b> making the app and explaining the concepts.🕐<br>
 Link to Today's Work : [Day81 Work](https://github.com/SiddharthaBhattacharjee/PelindromeApp/commit/bd887a5b78be8726aa3f812d6e6d247450ec97c2)
 
-## <u>Day 82; April 21th 2022 **Thursday** : </u>
+## <u>Day 82; April 21st 2022 **Thursday** : </u>
 Today, I continued the C++ course, completed the topic new & delete keyword in pointers, array using pointers, pointer to objects, array of objects and this pointer
 ✍️<br>
 Solved Practice problems from each topics of today.💻<br>
 I worked for <b>2 hours</b> out of which around 1 hour went toward studying the topics and making notes and the rest towards solving  the problems.🕐<br>
 Link to Today's Work : [Day82 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/76bfe00b231012e75342cfa7c6abcdf9fbcfd125)
+
+## <u> April 22nd 2022 **Friday** : </u>
+I was unable to code as I was travelling from one city to another on train. I will cover up by coding more the next day.
+
+## <u>Day 83; April 23rd 2022 **Saturday** : </u>
+Today, I started learning web development with my friends. Completed some basic HTML and JS problems and created a basic palindrome checker web page.✍️<br>
+I coded for <b>3 hours 45 mins</b> solving the practice problems and working on the simple webpage.🕐<br>
+Link to Today's Work : [Day82 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/5eff94523177edd79735458c33f5da8e4ad6bb53)
