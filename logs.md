@@ -559,4 +559,10 @@ I was unable to code as I was travelling from one city to another on train. I wi
 ## <u>Day 83; April 23rd 2022 **Saturday** : </u>
 Today, I started learning web development with my friends. Completed some basic HTML and JS problems and created a basic palindrome checker web page.✍️<br>
 I coded for <b>3 hours 45 mins</b> solving the practice problems and working on the simple webpage.🕐<br>
-Link to Today's Work : [Day82 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/5eff94523177edd79735458c33f5da8e4ad6bb53)
+Link to Today's Work : [Day83 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/5eff94523177edd79735458c33f5da8e4ad6bb53)
+
+## <u>Day 84; April 24th 2022 **Sunday** : </u>
+Today, I continued the C++ Course, Completed the topics Polymorphism and its types which was completely theoritical in todays portion.✍️<br>
+Since today's topic was very theoritical, I solved some leetcode questions to complete my dailt coding quota.💻<br>
+Today I worked for around <b>1 hour 40 mins</b> out of which around  1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
+Link to Today's Work : [Day84 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/d9377366adb374559955b9cb2061153cfb452b33)
