@@ -566,3 +566,9 @@ Today, I continued the C++ Course, Completed the topics Polymorphism and its typ
 Since today's topic was very theoritical, I solved some leetcode questions to complete my dailt coding quota.💻<br>
 Today I worked for around <b>1 hour 40 mins</b> out of which around  1 hour went towards learning the topic and making notes and the remaining went towards coding the practice problems.🕐<br>
 Link to Today's Work : [Day84 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/d9377366adb374559955b9cb2061153cfb452b33)
+
+## <u>Day 85; April 25th 2022 **Monday** : </u>
+Today, I worked on a web development project.✍️<br>
+I created a simple webpage using HTML , CSS and JS which is a web calculator that performs basic arithmatic calculations. It was a great practice of the concepts of web development I have been learning recently.💻<br>
+I coded for <b>2 hours 20mins</b> working on the simple webpage.🕐<br>
+Link to Today's Work : [Day85 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/3361ad99f6ea294ef2e8b969322eeb4bee9c0367)
