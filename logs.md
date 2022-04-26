@@ -572,3 +572,9 @@ Today, I worked on a web development project.✍️<br>
 I created a simple webpage using HTML , CSS and JS which is a web calculator that performs basic arithmatic calculations. It was a great practice of the concepts of web development I have been learning recently.💻<br>
 I coded for <b>2 hours 20mins</b> working on the simple webpage.🕐<br>
 Link to Today's Work : [Day85 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/3361ad99f6ea294ef2e8b969322eeb4bee9c0367)
+
+## <u>Day 86; April 26th 2022 **Tuesday** : </u>
+Today, I continued the C++ course, completed the topics of Runtime polymorphism, Pointer to derived class and Virtual Functions.✍️<br>
+Solved some example problems from each topic and made detailed notes (Topics were concept heavy).💻<br>
+Today I worked for around <b>1 hour 40 mins</b> out of which 50 mins went towards coding and the remaining towards understanding the concepts and making notes.🕐<br>
+Link to Today's Work : [Day86 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/91029b27f71423813901d9437cdb99a7bf878929)
