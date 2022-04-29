@@ -578,3 +578,12 @@ Today, I continued the C++ course, completed the topics of Runtime polymorphism,
 Solved some example problems from each topic and made detailed notes (Topics were concept heavy).💻<br>
 Today I worked for around <b>1 hour 40 mins</b> out of which 50 mins went towards coding and the remaining towards understanding the concepts and making notes.🕐<br>
 Link to Today's Work : [Day86 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/91029b27f71423813901d9437cdb99a7bf878929)
+
+## April 27th - 28th, 2022 **Tuesday** : </u>
+Taking 2 days break as I was attending/voulentering in the event Google For Namma Worker organised by GDSC SRM Ramapuram and WTC.
+
+## <u>Day 87; April 29th 2022 **Friday** : </u>
+Today, I started the Google Cloud ready Program, completed 2 quests and read about the basucs of cloud.✍️<br>
+Practiced Web development and learnt about responsive websites.💻<br>
+I coded for <b>3 hours 30mins</b> out of which 2 hours went towards Google Cloud Ready Program and remaining time went towards practicing web development.🕐<br>
+Link to Today's Work : [Day87 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/55d2733ca14e3d4ed2ce1847530008073d5143af)
