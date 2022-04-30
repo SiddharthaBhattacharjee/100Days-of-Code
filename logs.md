@@ -587,3 +587,9 @@ Today, I started the Google Cloud ready Program, completed 2 quests and read abo
 Practiced Web development and learnt about responsive websites.💻<br>
 I coded for <b>3 hours 30mins</b> out of which 2 hours went towards Google Cloud Ready Program and remaining time went towards practicing web development.🕐<br>
 Link to Today's Work : [Day87 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/55d2733ca14e3d4ed2ce1847530008073d5143af)
+
+## <u>Day 88; April 30th 2022 **Saturday** : </u>
+Continued with google cloud ready program and continued the C++ cource , completing the topics Rules for Virtual Functions, Array of different base class objects.✍️<br>
+Coded an example program implementing today's topics and made some progress in cloud quests.💻<br>
+I coded for <b>2 hours 10 mins</b> out of which 40 mins went towards coding in C++ , 30 mins went towards studying the topics and making notes and the rest went towards cloud quests.🕐<br>
+Link to Today's Work : [Day88 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/b52bebc06a1831611b674d34a058da90362cb3a8)
