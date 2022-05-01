@@ -593,3 +593,8 @@ Continued with google cloud ready program and continued the C++ cource , complet
 Coded an example program implementing today's topics and made some progress in cloud quests.💻<br>
 I coded for <b>2 hours 10 mins</b> out of which 40 mins went towards coding in C++ , 30 mins went towards studying the topics and making notes and the rest went towards cloud quests.🕐<br>
 Link to Today's Work : [Day88 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/b52bebc06a1831611b674d34a058da90362cb3a8)
+
+## <u>Day 89; May 1st 2022 **Sunday** : </u>
+Continued with google cloud ready program , completed the entire quest today and earned myself my first badge, also practiced some basic Javascript problems.✍️<br>
+I coded for <b>2 hours 30 mins</b> out of which 2 hours went towards gcloud quests and remaining went towards practiing javascript.🕐<br>
+Link to Today's Work : [Day89 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/7d1265dcab20867a83d742bcc04cfe7bd57a7332)
