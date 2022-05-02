@@ -598,3 +598,8 @@ Link to Today's Work : [Day88 Work](https://github.com/SiddharthaBhattacharjee/C
 Continued with google cloud ready program , completed the entire quest today and earned myself my first badge, also practiced some basic Javascript problems.✍️<br>
 I coded for <b>2 hours 30 mins</b> out of which 2 hours went towards gcloud quests and remaining went towards practiing javascript.🕐<br>
 Link to Today's Work : [Day89 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/7d1265dcab20867a83d742bcc04cfe7bd57a7332)
+
+## <u>Day 90; May 2nd 2022 **Monday** : </u>
+Started working on my next web development project which is my personal portfolio website, made a good start on the project and layed the foundations of the website, apart from that, made some progress in google cloud ready quests.✍️<br>
+I coded for <b>3 hours 20 mins</b> out of which 2 hours went towards gcloud quests and remaining went towards working on the portfolio website.🕐<br>
+Link to Today's Work : [Day90 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/e4399f593b621cd7cc6255ae0b104de4e7752b47)
