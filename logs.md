@@ -603,3 +603,8 @@ Link to Today's Work : [Day89 Work](https://github.com/SiddharthaBhattacharjee/W
 Started working on my next web development project which is my personal portfolio website, made a good start on the project and layed the foundations of the website, apart from that, made some progress in google cloud ready quests.✍️<br>
 I coded for <b>3 hours 20 mins</b> out of which 2 hours went towards gcloud quests and remaining went towards working on the portfolio website.🕐<br>
 Link to Today's Work : [Day90 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/e4399f593b621cd7cc6255ae0b104de4e7752b47)
+
+## <u>Day 91; May 3rd 2022 **Tuesday** : </u>
+Continued working on my personal portfolio website, made some progress and some changes, however, I am still not fully sold on the design and there might be major design changes in the future.💻<br>
+I coded for <b>2 hours</b> Working on the portfolio website.🕐<br>
+Link to Today's Work : [Day91 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/3fd2d725400ba9bc79e89ca6d6f094ac03ce16d4)
