@@ -608,3 +608,12 @@ Link to Today's Work : [Day90 Work](https://github.com/SiddharthaBhattacharjee/W
 Continued working on my personal portfolio website, made some progress and some changes, however, I am still not fully sold on the design and there might be major design changes in the future.💻<br>
 I coded for <b>2 hours</b> Working on the portfolio website.🕐<br>
 Link to Today's Work : [Day91 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/3fd2d725400ba9bc79e89ca6d6f094ac03ce16d4)
+
+## <u> May 4th 2022 **Wednesday** : </u>
+I had to take a study leave to catch up with my college studies as tests are about to come and my notes needed to be completed.
+
+## <u>Day 92; May 5th 2022 **Thursday** : </u>
+Today, I continued my C++ course, completed the topics of pure virtual functions, do-nothing functions and abstract base classes. And with that I have completed the Object Oriented Programming in C++. Next I will continue to File IO in C++.✍️<br>
+Coded the exercise problems from today's topics and also made notes, also practiced some leetcode questions.💻<br>
+I coded for <b>2 hours 10 mins</b> out of which 45 mins went towards understanding the concept and making notes and rest towards coding the exercise problem.🕐<br>
+Link to Today's Work : [Day92 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/fc0c1647f52533b3ad582287c584d9f27a173a66)
