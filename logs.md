@@ -617,3 +617,9 @@ Today, I continued my C++ course, completed the topics of pure virtual functions
 Coded the exercise problems from today's topics and also made notes, also practiced some leetcode questions.💻<br>
 I coded for <b>2 hours 10 mins</b> out of which 45 mins went towards understanding the concept and making notes and rest towards coding the exercise problem.🕐<br>
 Link to Today's Work : [Day92 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/fc0c1647f52533b3ad582287c584d9f27a173a66)
+
+## <u>Day 93; May 6th 2022 **Friday** : </u>
+Today, I continued my C++ course, completed the topics of File I/O (Read,Write,open,close,eol) and fstream.✍️<br>
+Coded the exercise problems from today's topics and also made notes.💻<br>
+I coded for <b>1 hours 10 mins</b> out of which 35 mins went towards understanding the concept and making notes and rest towards coding the exercise problem.🕐<br>
+Link to Today's Work : [Day93 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/4767437f4d621ad4da8abbc2d93d8c48abf242a9)
