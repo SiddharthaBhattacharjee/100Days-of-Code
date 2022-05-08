@@ -623,3 +623,12 @@ Today, I continued my C++ course, completed the topics of File I/O (Read,Write,o
 Coded the exercise problems from today's topics and also made notes.💻<br>
 I coded for <b>1 hours 10 mins</b> out of which 35 mins went towards understanding the concept and making notes and rest towards coding the exercise problem.🕐<br>
 Link to Today's Work : [Day93 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/4767437f4d621ad4da8abbc2d93d8c48abf242a9)
+
+## <u> May 7th 2022 **Saturday** : </u>
+Had to take a break to catch up with college , had to write some lab record observations and some assignments.
+
+## <u>Day 94; May 8th 2022 **Sunday** : </u>
+Today, I continued my C++ course, Started the topic of Templates, completed the introduction and basic syntax part and wrote my first code using templates with classes. Also made notes on the topic.✍️<br>
+I am restructuring and redesigning my portfolio, hence I made a new layout for the portfolio using HTML and CSS.💻<br>
+I coded for <b>2 hours</b> out of which around 30 mins went towards understanding the concept and making notes , around 30 mins rest towards coding the exercise problem and the remaining towards working on the portfolio website.🕐<br>
+Link to Today's Works : [Day93 Work (C++)](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/68028f8248d275800049f2bdbb7a27ec6e3196c6)  ,  [Day93 Work (Portfolio)](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/ff49058e8b631e1bedc801f26ef368d3dbb8d622)
