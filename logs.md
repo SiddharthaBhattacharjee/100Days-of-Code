@@ -631,4 +631,9 @@ Had to take a break to catch up with college , had to write some lab record obse
 Today, I continued my C++ course, Started the topic of Templates, completed the introduction and basic syntax part and wrote my first code using templates with classes. Also made notes on the topic.✍️<br>
 I am restructuring and redesigning my portfolio, hence I made a new layout for the portfolio using HTML and CSS.💻<br>
 I coded for <b>2 hours</b> out of which around 30 mins went towards understanding the concept and making notes , around 30 mins rest towards coding the exercise problem and the remaining towards working on the portfolio website.🕐<br>
-Link to Today's Works : [Day93 Work (C++)](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/68028f8248d275800049f2bdbb7a27ec6e3196c6)  ,  [Day93 Work (Portfolio)](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/ff49058e8b631e1bedc801f26ef368d3dbb8d622)
+Link to Today's Works : [Day94 Work (C++)](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/68028f8248d275800049f2bdbb7a27ec6e3196c6)  ,  [Day94 Work (Portfolio)](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/ff49058e8b631e1bedc801f26ef368d3dbb8d622)
+
+## <u>Day 95; May 9th 2022 **Monday** : </u>
+Today, I worked on the redesigned portfolio website, made some significant progress and learnt a lot new things while working on the CSS part of the portfolio. This time, I started by laying out a basic layout before starting to put in elements, and this approach worked out great for me, This time, I am happy with the outcomes so far and am continuing my work on it, hopefully it will be finished soon.✍️<br>
+I Worked for <b>4 hours 15 mis</b> on the portfolio website including the time taken to learn new topics.🕐<br>
+Link to Today's Works : [Day95 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/b2ffa1ee93de691d9b82fdcfe61fa487c9ba8573)
