@@ -637,3 +637,9 @@ Link to Today's Works : [Day94 Work (C++)](https://github.com/SiddharthaBhattach
 Today, I worked on the redesigned portfolio website, made some significant progress and learnt a lot new things while working on the CSS part of the portfolio. This time, I started by laying out a basic layout before starting to put in elements, and this approach worked out great for me, This time, I am happy with the outcomes so far and am continuing my work on it, hopefully it will be finished soon.✍️<br>
 I Worked for <b>4 hours 15 mis</b> on the portfolio website including the time taken to learn new topics.🕐<br>
 Link to Today's Works : [Day95 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/b2ffa1ee93de691d9b82fdcfe61fa487c9ba8573)
+
+## <u>Day 96; May 10th 2022 **Tuesday** : </u>
+Today, I continued my work on the portfolio website, made more significant progress and the website is now nearing completion, however, as of now the website is non responsive and I will be working on making it responsive in the near future. Also, While Working on the webpage, I got to explore many new things about CSS and JavaScript.✍️<br>
+Other than that, studied some JavaScript, studied about the For in, For of, and For each loops in JS.💻<br>
+I Worked for <b>5 hours 10 mis</b> on the portfolio website including the time taken to learn new topics and studying JavaScript.🕐<br>
+Link to Today's Works : [Day96 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/044ae578f4d3e52d3369c754e64fa0715fe201ef)
