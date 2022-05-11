@@ -643,3 +643,9 @@ Today, I continued my work on the portfolio website, made more significant progr
 Other than that, studied some JavaScript, studied about the For in, For of, and For each loops in JS.💻<br>
 I Worked for <b>5 hours 10 mis</b> on the portfolio website including the time taken to learn new topics and studying JavaScript.🕐<br>
 Link to Today's Works : [Day96 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/044ae578f4d3e52d3369c754e64fa0715fe201ef)
+
+## <u>Day 97; May 11th 2022 **Wednesday** : </u>
+Today, I continued my work on the portfolio website, and after a final stretch of coding, The website is finished for now, I have added all the things I intended to add to it, however there is a lot more things to do with this website, like making it responsive and adding more content, I am concluding it as of now but I will continue adding stuff to the page as we go and I will make it responsive after I have learnt more of web development.💻<br>
+Also, I am not very good at designing, so I might keep making design changes based on suggestions from people.✍️<br>
+I Worked for <b>4 hours 25 mis</b> on the portfolio website including the time taken to learn new topics.🕐<br>
+Link to Today's Works : [Day97 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/43091deab5dc9f03a93afb20406fcd2159efe1ac)
