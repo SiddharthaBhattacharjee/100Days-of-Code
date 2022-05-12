@@ -649,3 +649,9 @@ Today, I continued my work on the portfolio website, and after a final stretch o
 Also, I am not very good at designing, so I might keep making design changes based on suggestions from people.✍️<br>
 I Worked for <b>4 hours 25 mis</b> on the portfolio website including the time taken to learn new topics.🕐<br>
 Link to Today's Works : [Day97 Work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/43091deab5dc9f03a93afb20406fcd2159efe1ac)
+
+## <u>Day 98; May 12th 2022 **Thursday** : </u>
+Today, I continued the C++ course, completed the topics Templates with multiple parameter, defalt parameter of Templates, Template to Functions, Templates to member functions, Template function Overloading.✍️<br>
+Coded the example and practice questions, and also made notes of todays topics.💻<br>
+I Worked for <b>2 hours 10 mis</b> Coding , learning and making notes of today's topics.🕐<br>
+Link to Today's Works : [Day98 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/6d80a622f392447d813d70b0797f82cb247d87f5)
