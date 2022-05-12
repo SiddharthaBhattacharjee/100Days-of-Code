@@ -1,4 +1,4 @@
-# **100 Days of Code - Log**
+# **100 Days of Code - Logs**
 ## <u>Day 0 ; Dec 31st 2021 **Friday** : </u>
 Today I am taking up the #100DaysOfCodeChallenge and From tomorrow I will be coding daily for atleast an hours. 📢 <br>
 Today I have prepared the repo to log my progress, set up the rules I will be following, and I have made a public statement of my challenge. ✍️ <br>
