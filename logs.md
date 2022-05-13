@@ -655,3 +655,9 @@ Today, I continued the C++ course, completed the topics Templates with multiple 
 Coded the example and practice questions, and also made notes of todays topics.💻<br>
 I Worked for <b>2 hours 10 mis</b> Coding , learning and making notes of today's topics.🕐<br>
 Link to Today's Works : [Day98 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/6d80a622f392447d813d70b0797f82cb247d87f5)
+
+## <u>Day 99; May 13th 2022 **Friday** : </u>
+Today, I continued the C++ course, started the New chapter STL, completed the topics STL intro, Components of STL (containers, algorithms, iterators), Containers & its types(Sequential container, Associative Container, Derived Container), Vectors.✍️<br>
+Today's topics were mostly theoritical and focused on getting the basics of STL clear, however, I coded the problems and examples of Vectors.💻<br>
+I Worked for <b>2 hours</b> Coding , Understanding and making notes of today's topics.🕐<br>
+Link to Today's Works : [Day99 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/5735a875a42d9987426a464f204047a355e1be31)
