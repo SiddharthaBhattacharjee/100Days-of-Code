@@ -661,3 +661,12 @@ Today, I continued the C++ course, started the New chapter STL, completed the to
 Today's topics were mostly theoritical and focused on getting the basics of STL clear, however, I coded the problems and examples of Vectors.💻<br>
 I Worked for <b>2 hours</b> Coding , Understanding and making notes of today's topics.🕐<br>
 Link to Today's Works : [Day99 Work](https://github.com/SiddharthaBhattacharjee/C-_Course_Practice_Learning/commit/5735a875a42d9987426a464f204047a355e1be31)
+
+## <u>Day 100; May 14th 2022 **Saturday** : </u>
+Finally the day has come, Today I have completed the 100DaysofCode challenge🥳
+Today is a special day, so instead of continuing the cources as usual, I worked on a special fun project today, I created a simple clone of the famous chrome dino game using HTML,CSS and JS.💻<br>
+Even though the challenge is officially over, I still have to do the extra coverup days for taking breakes during the challenge, so from today I will be doing all the panality days and will be updating it here as usual.✍️<br>
+I Worked for <b>3 hours</b> Working on todays project.🕐<br>
+Link to Today's Works : [Day100 Work](https://github.com/SiddharthaBhattacharjee/DinoGame/commit/046283e2982e9a4c86f2ee0805131aa8be779a05)<br>
+Try out the game here : [Dino Game](https://siddharthabhattacharjee.github.io/DinoGame/)<br>
+The Challange has pushed me a lot, helped me improve my consistancy and left a very positive impact on me, Even though the challenge is over, I will still keep up the consistancy and coad daily, I will also keep updating my work on a new log after the extra coverup days are over.🙂
