@@ -11,7 +11,7 @@ Start Date : Jan 1st 2022
 2. I will push code to GitHub every day so that anyone can see my progress.
 3. I will update the Log with the day's progress and provide a link so that others can see my progress.
 4. I am allowed to take a 1 day break , but I canno't take more than 1 day of break in a row , also only one break per week is allowed.
-5. If I ever have to take a break longer than a day (because of Sem Exams , sickness , etc). I will cover up for those days by adding 2 extra days to the challenge.
+5. If I ever have to take a break longer than a day (because of Sem Exams , sickness , etc). I will cover up for those days by adding 1 extra days to the challenge on top of covering up for that perticular day.
 
 ## <u>Quote</u>
 
