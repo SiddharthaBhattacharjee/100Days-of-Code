@@ -670,3 +670,16 @@ I Worked for <b>3 hours</b> Working on todays project.🕐<br>
 Link to Today's Works : [Day100 Work](https://github.com/SiddharthaBhattacharjee/DinoGame/commit/046283e2982e9a4c86f2ee0805131aa8be779a05)<br>
 Try out the game here : [Dino Game](https://siddharthabhattacharjee.github.io/DinoGame/)<br>
 The Challange has pushed me a lot, helped me improve my consistancy and left a very positive impact on me, Even though the challenge is over, I will still keep up the consistancy and coad daily, I will also keep updating my work on a new log after the extra coverup days are over.🙂
+
+# Extra Coverup Days:
+
+## Day 101; May 16th 2022 **Saturday**  : 
+Links : [work 1](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/97b65edd5909e61fe5dc068744a39906b30dc950)  ,  [work 2](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/d27ca1441a1cc6c42f46ec4950fd5a0ffac7abe3)<br>
+Desc : Worked on my portfolio, made some changes.<br>
+Other Work : Studied about STL in C++ (Theory part)<br>
+Time : 1 hour
+
+## Day 102; May 16th 2022 **Saturday** : 
+Links : [work](https://github.com/SiddharthaBhattacharjee/OtherWayRound/commit/ad904b2062e37dc41b1b3dd34c1995fded432841)<br>
+Desc : Made a new web project that reverses string as user types it usinh HTML, CSS and JS.<br>
+Time : 2 hour 40 mins
