@@ -683,3 +683,8 @@ Time : 1 hour
 Links : [work](https://github.com/SiddharthaBhattacharjee/OtherWayRound/commit/ad904b2062e37dc41b1b3dd34c1995fded432841)<br>
 Desc : Made a new web project that reverses string as user types it usinh HTML, CSS and JS.<br>
 Time : 2 hour 40 mins
+
+## Day 103; May 19th 2022 **Saturday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/1c65eaf53d9bf7a04df3f67fc6f97b7572881204)<br>
+Desc : Updated my Portfolio , made some major changes, implemented particle js.
+Time : 3 hrs 50 mins
