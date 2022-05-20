@@ -673,18 +673,23 @@ The Challange has pushed me a lot, helped me improve my consistancy and left a v
 
 # Extra Coverup Days:
 
-## Day 101; May 16th 2022 **Saturday**  : 
+## Day 101; May 16th 2022 **Monday**  : 
 Links : [work 1](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/97b65edd5909e61fe5dc068744a39906b30dc950)  ,  [work 2](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/d27ca1441a1cc6c42f46ec4950fd5a0ffac7abe3)<br>
 Desc : Worked on my portfolio, made some changes.<br>
 Other Work : Studied about STL in C++ (Theory part)<br>
 Time : 1 hour
 
-## Day 102; May 16th 2022 **Saturday** : 
+## Day 102; May 17th 2022 **Tuesday** : 
 Links : [work](https://github.com/SiddharthaBhattacharjee/OtherWayRound/commit/ad904b2062e37dc41b1b3dd34c1995fded432841)<br>
 Desc : Made a new web project that reverses string as user types it usinh HTML, CSS and JS.<br>
 Time : 2 hour 40 mins
 
-## Day 103; May 19th 2022 **Saturday** : 
+## Day 103; May 19th 2022 **Thursday** : 
 Link : [work](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/1c65eaf53d9bf7a04df3f67fc6f97b7572881204)<br>
-Desc : Updated my Portfolio , made some major changes, implemented particle js.
+Desc : Updated my Portfolio , made some major changes, implemented particle js.<br>
 Time : 3 hrs 50 mins
+
+## Day 104; May 20th 2022 **Friday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/c43085be843d870f215626bc904a73dba8bb91e0)<br>
+Desc : Finished all the updates to my portfolio and completed the redesign based on feedbacks.<br>
+Time : 3 hours
