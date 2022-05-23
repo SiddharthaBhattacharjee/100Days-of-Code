@@ -693,3 +693,18 @@ Time : 3 hrs 50 mins
 Link : [work](https://github.com/SiddharthaBhattacharjee/Portfolio/commit/c43085be843d870f215626bc904a73dba8bb91e0)<br>
 Desc : Finished all the updates to my portfolio and completed the redesign based on feedbacks.<br>
 Time : 3 hours
+
+## Day 105; May 21th 2022 **Saturday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/RockPaperScissor_WebGame/commit/fbbbf7fdb587eaca08516b55cbe14ecb4fd380d4)<br>
+Desc : Worked on and completed a mini project which is RockPaperScissors web game using HTML,CSS and JS.<br>
+Time : 5 hours.
+
+## Day 106; May 23rd 2022 **Monday** : 
+Link : [Work](https://github.com/SiddharthaBhattacharjee/SuperPass/commit/ac646284019051667a083bbab2b7724ed0b7fdb5) (name is Day10 but is Day106, sorry for the typo)<br>
+Desc : Started Work on another mini project which is a password generator websitem, completed the Design part today. Made using HTML,CSS and JS.<br>
+Time : 4 hours.
+
+## Day 107; May 24th 2022 **Tuesday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/SuperPass/commit/1e5fd3a477666f99a3e9655a3f0cbf575772c0a9)<br>
+Desc : Comtinued and completed the mini project I started yesterday, tackled the main Password generator coding part today , added some finishing touches to the website before deploying.<br>
+Time : 2 hrs 40 mins.
