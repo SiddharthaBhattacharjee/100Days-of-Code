@@ -708,3 +708,9 @@ Time : 4 hours.
 Link : [work](https://github.com/SiddharthaBhattacharjee/SuperPass/commit/1e5fd3a477666f99a3e9655a3f0cbf575772c0a9)<br>
 Desc : Comtinued and completed the mini project I started yesterday, tackled the main Password generator coding part today , added some finishing touches to the website before deploying.<br>
 Time : 2 hrs 40 mins.
+
+
+## Day 108; May 25th 2022 **Wednesday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/Tik-Tak-Toe/commit/6ebffef4302241a2cae14343d888b624e4347748)<br>
+Desc : Started working on a new mini project using HTML, CSS and JS which is tik-tak-toe game, completed the design part.<br>
+Time : 2 hrs 30 mins.
