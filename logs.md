@@ -714,3 +714,8 @@ Time : 2 hrs 40 mins.
 Link : [work](https://github.com/SiddharthaBhattacharjee/Tik-Tak-Toe/commit/6ebffef4302241a2cae14343d888b624e4347748)<br>
 Desc : Started working on a new mini project using HTML, CSS and JS which is tik-tak-toe game, completed the design part.<br>
 Time : 2 hrs 30 mins.
+
+## Day 109; May 26th 2022 **Thursday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/Tik-Tak-Toe/commit/eda960553bf8e6461843059f057784797f4a4bf6)<br>
+Desc : Almost completed the tik-tak-toe project, game is now functional and playable, yet some finishing touches and effects are yet to be implemented. Hopefully will be completed tomorrow.<br>
+Time : 3 hrs 20 mins.
