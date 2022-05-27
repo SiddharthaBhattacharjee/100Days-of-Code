@@ -719,3 +719,8 @@ Time : 2 hrs 30 mins.
 Link : [work](https://github.com/SiddharthaBhattacharjee/Tik-Tak-Toe/commit/eda960553bf8e6461843059f057784797f4a4bf6)<br>
 Desc : Almost completed the tik-tak-toe project, game is now functional and playable, yet some finishing touches and effects are yet to be implemented. Hopefully will be completed tomorrow.<br>
 Time : 3 hrs 20 mins.
+
+## Day 109; May 26th 2022 **Thursday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/Tik-Tak-Toe/commit/f770279332ac0b495c0173cd172f9deafd3465e8)<br>
+Desc : Completed the tik-tak-toe game and fixed many bugs from yesterdays version. The game is now available to play here: [TRY THE GAME OUT](https://siddharthabhattacharjee.github.io/Tik-Tak-Toe/) however further playtesting might reveal more bugs, So I will be looking for feedback to improve the game or fix any bugs if found.<br>
+Time : 2 hrs 40 mins.
