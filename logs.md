@@ -724,3 +724,8 @@ Time : 3 hrs 20 mins.
 Link : [work](https://github.com/SiddharthaBhattacharjee/Tik-Tak-Toe/commit/f770279332ac0b495c0173cd172f9deafd3465e8)<br>
 Desc : Completed the tik-tak-toe game and fixed many bugs from yesterdays version. The game is now available to play here: [TRY THE GAME OUT](https://siddharthabhattacharjee.github.io/Tik-Tak-Toe/) however further playtesting might reveal more bugs, So I will be looking for feedback to improve the game or fix any bugs if found.<br>
 Time : 2 hrs 40 mins.
+
+## Day 111; May 28th 2022 **Saturday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/GuessTheNumber_WebGame/commit/c47d6657bd2135c1ad308a143b2ac8942868e7e4)<br>
+Desc : Started working on anither mini web project, this time I am making the classic guess the number game. Completed the design part today, the script part will be completed by tomorrow.<br>
+Time : 3 hrs 10 mins.
