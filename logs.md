@@ -729,3 +729,10 @@ Time : 2 hrs 40 mins.
 Link : [work](https://github.com/SiddharthaBhattacharjee/GuessTheNumber_WebGame/commit/c47d6657bd2135c1ad308a143b2ac8942868e7e4)<br>
 Desc : Started working on anither mini web project, this time I am making the classic guess the number game. Completed the design part today, the script part will be completed by tomorrow.<br>
 Time : 3 hrs 10 mins.
+
+
+## Day 112; May 29th 2022 **Sunday** : 
+Link : [work-GuessTheNumber](https://github.com/SiddharthaBhattacharjee/GuessTheNumber_WebGame/commit/862a079c07427d0dea47ff82eb206dec9dd2bfad)  ,  [work-EncryptorDecryptor](https://github.com/SiddharthaBhattacharjee/Encryptor-Decryptor-Web/commit/a6e0922ce2c565f720dd26748e9bb9cb8ea8b60a)<br>
+Desc : Completed the project GuessTheNumber which I started yesterday, started and completed another web project which is encryptor-decryptor which encrypts and decrytpts text with a key taken from user.<br>
+Time : 6 hrs.
+Try Out : [Guess The Number Game](https://siddharthabhattacharjee.github.io/GuessTheNumber_WebGame/) , [Encryptor-Decryptor](https://siddharthabhattacharjee.github.io/Encryptor-Decryptor-Web/)
