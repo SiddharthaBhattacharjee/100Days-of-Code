@@ -736,3 +736,8 @@ Link : [work-GuessTheNumber](https://github.com/SiddharthaBhattacharjee/GuessThe
 Desc : Completed the project GuessTheNumber which I started yesterday, started and completed another web project which is encryptor-decryptor which encrypts and decrytpts text with a key taken from user.<br>
 Time : 6 hrs.
 Try Out : [Guess The Number Game](https://siddharthabhattacharjee.github.io/GuessTheNumber_WebGame/) , [Encryptor-Decryptor](https://siddharthabhattacharjee.github.io/Encryptor-Decryptor-Web/)
+
+## Day 113; May 31th 2022 **Tuesday** : 
+Link : [work](https://github.com/SiddharthaBhattacharjee/Web-Dev-Learning-Practice/commit/e6b9d85ef40e72052872fd6fc5e762345884ccbb)<br>
+Desc : Practiced some JavaScript questions.<br>
+Time : 1 hour 35 mins.
